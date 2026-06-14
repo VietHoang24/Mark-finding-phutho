@@ -1,0 +1,1892 @@
+[
+  {
+    "sbd": "1140001",
+    "name": "Lưu Vĩnh An",
+    "lit": 8,
+    "eng": 6.25,
+    "math": 7.25,
+    "total": 21.5,
+    "rank": 1
+  },
+  {
+    "sbd": "1140006",
+    "name": "Lý Thị Dương Cầm",
+    "lit": 8.5,
+    "eng": 6.5,
+    "math": 6.5,
+    "total": 21.5,
+    "rank": 1
+  },
+  {
+    "sbd": "1140037",
+    "name": "Hoàng Thị Như Quỳnh",
+    "lit": 8.25,
+    "eng": 5.25,
+    "math": 7,
+    "total": 20.5,
+    "rank": 3
+  },
+  {
+    "sbd": "1140176",
+    "name": "Đỗ Tùng Sơn",
+    "lit": 9,
+    "eng": 4.75,
+    "math": 6.75,
+    "total": 20.5,
+    "rank": 3
+  },
+  {
+    "sbd": "1140025",
+    "name": "Hoàng Mai Linh",
+    "lit": 8.5,
+    "eng": 5.75,
+    "math": 6,
+    "total": 20.25,
+    "rank": 5
+  },
+  {
+    "sbd": "1140040",
+    "name": "Phó Thị Thảo",
+    "lit": 7,
+    "eng": 8.25,
+    "math": 5,
+    "total": 20.25,
+    "rank": 5
+  },
+  {
+    "sbd": "1140035",
+    "name": "Nguyễn Thị Bích Ngọc",
+    "lit": 8,
+    "eng": 5.75,
+    "math": 6.25,
+    "total": 20,
+    "rank": 7
+  },
+  {
+    "sbd": "1140023",
+    "name": "Trần Bảo Khánh",
+    "lit": 7.75,
+    "eng": 6.75,
+    "math": 5.25,
+    "total": 19.75,
+    "rank": 8
+  },
+  {
+    "sbd": "1140031",
+    "name": "Lý Hà Mai",
+    "lit": 8,
+    "eng": 6.25,
+    "math": 5.25,
+    "total": 19.5,
+    "rank": 9
+  },
+  {
+    "sbd": "1140043",
+    "name": "Hồ Bích Thủy",
+    "lit": 7.75,
+    "eng": 6,
+    "math": 5.75,
+    "total": 19.5,
+    "rank": 9
+  },
+  {
+    "sbd": "1140019",
+    "name": "Chu Thị Hồi",
+    "lit": 8,
+    "eng": 5.25,
+    "math": 5.75,
+    "total": 19,
+    "rank": 11
+  },
+  {
+    "sbd": "1140194",
+    "name": "Lại Thùy Trang",
+    "lit": 6,
+    "eng": 7,
+    "math": 6,
+    "total": 19,
+    "rank": 11
+  },
+  {
+    "sbd": "1140123",
+    "name": "Nguyễn Ngọc Cẩm Huyền",
+    "lit": 6.75,
+    "eng": 6.25,
+    "math": 5.75,
+    "total": 18.75,
+    "rank": 13
+  },
+  {
+    "sbd": "1140011",
+    "name": "Huyên Tiến Dũng",
+    "lit": 7.25,
+    "eng": 5.25,
+    "math": 5.75,
+    "total": 18.25,
+    "rank": 14
+  },
+  {
+    "sbd": "1140028",
+    "name": "Chu Khánh Ly",
+    "lit": 8,
+    "eng": 4.5,
+    "math": 5.75,
+    "total": 18.25,
+    "rank": 14
+  },
+  {
+    "sbd": "1140177",
+    "name": "Lưu Quang Sự",
+    "lit": 7.75,
+    "eng": 5.75,
+    "math": 4.75,
+    "total": 18.25,
+    "rank": 14
+  },
+  {
+    "sbd": "1140187",
+    "name": "Trần Thế Thịnh",
+    "lit": 7.5,
+    "eng": 5,
+    "math": 5.75,
+    "total": 18.25,
+    "rank": 14
+  },
+  {
+    "sbd": "1140026",
+    "name": "Lại Thùy Linh",
+    "lit": 8.5,
+    "eng": 5.25,
+    "math": 4.25,
+    "total": 18,
+    "rank": 18
+  },
+  {
+    "sbd": "1140046",
+    "name": "Lưu Anh Trường",
+    "lit": 7.25,
+    "eng": 4.75,
+    "math": 5.75,
+    "total": 17.75,
+    "rank": 19
+  },
+  {
+    "sbd": "1140098",
+    "name": "Tô Việt Hà",
+    "lit": 7.5,
+    "eng": 5.5,
+    "math": 4.75,
+    "total": 17.75,
+    "rank": 19
+  },
+  {
+    "sbd": "1140137",
+    "name": "Viên Gia Khánh",
+    "lit": 6.5,
+    "eng": 7,
+    "math": 4.25,
+    "total": 17.75,
+    "rank": 19
+  },
+  {
+    "sbd": "1140018",
+    "name": "Trần Văn Hoàng",
+    "lit": 6.75,
+    "eng": 4.75,
+    "math": 6,
+    "total": 17.5,
+    "rank": 22
+  },
+  {
+    "sbd": "1140038",
+    "name": "Ngô Đức Tài",
+    "lit": 6.25,
+    "eng": 5.75,
+    "math": 5.5,
+    "total": 17.5,
+    "rank": 22
+  },
+  {
+    "sbd": "1140042",
+    "name": "Trịnh Thị Thúy",
+    "lit": 7.75,
+    "eng": 5.25,
+    "math": 4.5,
+    "total": 17.5,
+    "rank": 22
+  },
+  {
+    "sbd": "1140118",
+    "name": "Lê Đức Huy",
+    "lit": 5.75,
+    "eng": 6,
+    "math": 5.75,
+    "total": 17.5,
+    "rank": 22
+  },
+  {
+    "sbd": "1140007",
+    "name": "Đặng Văn Chung",
+    "lit": 6.75,
+    "eng": 4.5,
+    "math": 6,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140012",
+    "name": "Phó Hải Dương",
+    "lit": 6.25,
+    "eng": 5.5,
+    "math": 5.5,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140029",
+    "name": "Trương Thị Ly",
+    "lit": 7.25,
+    "eng": 4.5,
+    "math": 5.5,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140032",
+    "name": "Nguyễn Văn Mạnh",
+    "lit": 7.25,
+    "eng": 4.75,
+    "math": 5.25,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140134",
+    "name": "Đỗ Duy Khánh",
+    "lit": 7.25,
+    "eng": 5.75,
+    "math": 4.25,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140193",
+    "name": "Hoàng Thị Huyền Trang",
+    "lit": 5.5,
+    "eng": 5.5,
+    "math": 6.25,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140201",
+    "name": "Lâm Anh Trường",
+    "lit": 7,
+    "eng": 4.5,
+    "math": 5.75,
+    "total": 17.25,
+    "rank": 26
+  },
+  {
+    "sbd": "1140014",
+    "name": "Lê Tiến Hiền",
+    "lit": 6.25,
+    "eng": 5,
+    "math": 5.75,
+    "total": 17,
+    "rank": 33
+  },
+  {
+    "sbd": "1140033",
+    "name": "Hoàng Thị Trà My",
+    "lit": 7,
+    "eng": 4.5,
+    "math": 5.5,
+    "total": 17,
+    "rank": 33
+  },
+  {
+    "sbd": "1140041",
+    "name": "Chu Thị Diệu Thu",
+    "lit": 7.25,
+    "eng": 5,
+    "math": 4.75,
+    "total": 17,
+    "rank": 33
+  },
+  {
+    "sbd": "1140057",
+    "name": "Lưu Tuấn Anh",
+    "lit": 6.75,
+    "eng": 6,
+    "math": 4.25,
+    "total": 17,
+    "rank": 33
+  },
+  {
+    "sbd": "1140020",
+    "name": "Viên Thị Bích Huyền",
+    "lit": 7.25,
+    "eng": 5,
+    "math": 4.5,
+    "total": 16.75,
+    "rank": 37
+  },
+  {
+    "sbd": "1140034",
+    "name": "Kỳ Trà My",
+    "lit": 7,
+    "eng": 5,
+    "math": 4.75,
+    "total": 16.75,
+    "rank": 37
+  },
+  {
+    "sbd": "1140124",
+    "name": "Nguyễn Thị Thanh Huyền",
+    "lit": 6.5,
+    "eng": 5.25,
+    "math": 5,
+    "total": 16.75,
+    "rank": 37
+  },
+  {
+    "sbd": "1140151",
+    "name": "Lại Văn Mạnh",
+    "lit": 6.5,
+    "eng": 4.5,
+    "math": 5.75,
+    "total": 16.75,
+    "rank": 37
+  },
+  {
+    "sbd": "1140015",
+    "name": "Phạm Thanh Hiền",
+    "lit": 6.5,
+    "eng": 4.5,
+    "math": 5.5,
+    "total": 16.5,
+    "rank": 41
+  },
+  {
+    "sbd": "1140095",
+    "name": "Lưu Thu Hà",
+    "lit": 6.5,
+    "eng": 6.25,
+    "math": 3.75,
+    "total": 16.5,
+    "rank": 41
+  },
+  {
+    "sbd": "1140016",
+    "name": "Lưu Xuân Hiếu",
+    "lit": 5.5,
+    "eng": 4,
+    "math": 6.75,
+    "total": 16.25,
+    "rank": 43
+  },
+  {
+    "sbd": "1140136",
+    "name": "Trương Minh Khánh",
+    "lit": 7,
+    "eng": 3.5,
+    "math": 5.75,
+    "total": 16.25,
+    "rank": 43
+  },
+  {
+    "sbd": "1140017",
+    "name": "Lục Thị Thu Hoài",
+    "lit": 7.25,
+    "eng": 3,
+    "math": 5.75,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140022",
+    "name": "Lại Khánh Hưng",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 6.5,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140024",
+    "name": "Trương Tấn Khải",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 6,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140089",
+    "name": "Trần Ngọc Duy",
+    "lit": 6,
+    "eng": 4.75,
+    "math": 5.25,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140093",
+    "name": "Diệp Văn Hà",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 6.5,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140152",
+    "name": "Lý Văn Mạnh",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 5.5,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140153",
+    "name": "Lâm Đức Minh",
+    "lit": 6.25,
+    "eng": 4.5,
+    "math": 5.25,
+    "total": 16,
+    "rank": 45
+  },
+  {
+    "sbd": "1140051",
+    "name": "Hoàng Hải Anh",
+    "lit": 6.25,
+    "eng": 4,
+    "math": 5.5,
+    "total": 15.75,
+    "rank": 52
+  },
+  {
+    "sbd": "1140074",
+    "name": "Lam Quang Chiến",
+    "lit": 7,
+    "eng": 4,
+    "math": 4.75,
+    "total": 15.75,
+    "rank": 52
+  },
+  {
+    "sbd": "1140097",
+    "name": "Tô Thị Hà",
+    "lit": 7.5,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 15.75,
+    "rank": 52
+  },
+  {
+    "sbd": "1140127",
+    "name": "Lưu Kim Hùng",
+    "lit": 7.25,
+    "eng": 4.5,
+    "math": 4,
+    "total": 15.75,
+    "rank": 52
+  },
+  {
+    "sbd": "1140005",
+    "name": "Diệp Nguyệt Ánh",
+    "lit": 8,
+    "eng": 3.5,
+    "math": 4,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140009",
+    "name": "Ôn Thị Dung",
+    "lit": 7.75,
+    "eng": 2.5,
+    "math": 5.25,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140039",
+    "name": "Trần Văn Tấn",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 5.75,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140045",
+    "name": "Lâm Thị Uyên Trang",
+    "lit": 7,
+    "eng": 5.25,
+    "math": 3.25,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140100",
+    "name": "Phó Trịnh Minh Hằng",
+    "lit": 7,
+    "eng": 4.75,
+    "math": 3.75,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140105",
+    "name": "Đặng Minh Hiếu",
+    "lit": 7.25,
+    "eng": 3,
+    "math": 5.25,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140107",
+    "name": "Lưu Chí Hiếu",
+    "lit": 7,
+    "eng": 5,
+    "math": 3.5,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140133",
+    "name": "Trương Thế Khanh",
+    "lit": 5.75,
+    "eng": 6.5,
+    "math": 3.25,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140191",
+    "name": "Trần Thu Thủy",
+    "lit": 7,
+    "eng": 4.75,
+    "math": 3.75,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140198",
+    "name": "Nguyễn Viết Trí",
+    "lit": 6.75,
+    "eng": 6,
+    "math": 2.75,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140204",
+    "name": "Trần Thanh Tùng",
+    "lit": 6.75,
+    "eng": 5.25,
+    "math": 3.5,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140207",
+    "name": "Lăng Văn Việt",
+    "lit": 5.75,
+    "eng": 5,
+    "math": 4.75,
+    "total": 15.5,
+    "rank": 56
+  },
+  {
+    "sbd": "1140036",
+    "name": "Dương Kim Phượng",
+    "lit": 6.5,
+    "eng": 4.75,
+    "math": 4,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140062",
+    "name": "Lưu Ngọc Ánh",
+    "lit": 6.25,
+    "eng": 4.25,
+    "math": 4.75,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140068",
+    "name": "Ôn Quang Bảo",
+    "lit": 6,
+    "eng": 6,
+    "math": 3.25,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140078",
+    "name": "Nguyễn Quốc Cường",
+    "lit": 7,
+    "eng": 4.25,
+    "math": 4,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140083",
+    "name": "Đào Dức Duy",
+    "lit": 7,
+    "eng": 3.75,
+    "math": 4.5,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140150",
+    "name": "Ngô Văn Mão",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 5.5,
+    "total": 15.25,
+    "rank": 68
+  },
+  {
+    "sbd": "1140002",
+    "name": "Ngô Thị Phương Anh",
+    "lit": 7,
+    "eng": 3.75,
+    "math": 4.25,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140010",
+    "name": "Lưu Thế Duy",
+    "lit": 7.25,
+    "eng": 3,
+    "math": 4.75,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140044",
+    "name": "Trần Anh Thư",
+    "lit": 7,
+    "eng": 4.25,
+    "math": 3.75,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140053",
+    "name": "Lăng Hồng Anh",
+    "lit": 6.25,
+    "eng": 4.5,
+    "math": 4.25,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140096",
+    "name": "Lý Thị Hà",
+    "lit": 6.5,
+    "eng": 4.75,
+    "math": 3.75,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140145",
+    "name": "Hoàng Long",
+    "lit": 6.5,
+    "eng": 4.5,
+    "math": 4,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140169",
+    "name": "Tạ Tuấn Phong",
+    "lit": 6.5,
+    "eng": 4.5,
+    "math": 4,
+    "total": 15,
+    "rank": 74
+  },
+  {
+    "sbd": "1140004",
+    "name": "Trần Thị Huyền Anh",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 3.75,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140030",
+    "name": "Nguyễn Thị Minh Lý",
+    "lit": 6.75,
+    "eng": 3.5,
+    "math": 4.5,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140081",
+    "name": "Bàng Bảo Duy",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 4.75,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140102",
+    "name": "Vũ Diễm Hằng",
+    "lit": 6.75,
+    "eng": 4,
+    "math": 4,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140108",
+    "name": "Lưu Quang Hiếu",
+    "lit": 6.5,
+    "eng": 3.75,
+    "math": 4.5,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140156",
+    "name": "Trần Thị Trà My",
+    "lit": 7.25,
+    "eng": 3.75,
+    "math": 3.75,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140190",
+    "name": "Lâm Thị Thanh Thủy",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 4.25,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140203",
+    "name": "Trần Thanh Tùng",
+    "lit": 6.75,
+    "eng": 2.25,
+    "math": 5.75,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140206",
+    "name": "Hoàng Ngọc Vi",
+    "lit": 6.75,
+    "eng": 4,
+    "math": 4,
+    "total": 14.75,
+    "rank": 81
+  },
+  {
+    "sbd": "1140049",
+    "name": "Bùi Ân Phương Anh",
+    "lit": 6.75,
+    "eng": 3.75,
+    "math": 4,
+    "total": 14.5,
+    "rank": 90
+  },
+  {
+    "sbd": "1140143",
+    "name": "Phó Nhật Linh",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 4,
+    "total": 14.5,
+    "rank": 90
+  },
+  {
+    "sbd": "1140211",
+    "name": "Hồ Tường Vy",
+    "lit": 7.5,
+    "eng": 3.5,
+    "math": 3.5,
+    "total": 14.5,
+    "rank": 90
+  },
+  {
+    "sbd": "1140013",
+    "name": "Trương Thị Thu Hằng",
+    "lit": 7.25,
+    "eng": 2.5,
+    "math": 4.5,
+    "total": 14.25,
+    "rank": 93
+  },
+  {
+    "sbd": "1140063",
+    "name": "Kiều Gia Bảo",
+    "lit": 5.75,
+    "eng": 3.25,
+    "math": 5.25,
+    "total": 14.25,
+    "rank": 93
+  },
+  {
+    "sbd": "1140101",
+    "name": "Trần Thị Thu Hằng",
+    "lit": 6.25,
+    "eng": 5,
+    "math": 3,
+    "total": 14.25,
+    "rank": 93
+  },
+  {
+    "sbd": "1140170",
+    "name": "Phùng Hồng Phúc",
+    "lit": 7,
+    "eng": 2,
+    "math": 5.25,
+    "total": 14.25,
+    "rank": 93
+  },
+  {
+    "sbd": "1140175",
+    "name": "Lê Thị Tú Quỳnh",
+    "lit": 6.75,
+    "eng": 5.25,
+    "math": 2.25,
+    "total": 14.25,
+    "rank": 93
+  },
+  {
+    "sbd": "1140021",
+    "name": "Lê Văn Hùng",
+    "lit": 6.5,
+    "eng": 2.5,
+    "math": 5,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140047",
+    "name": "Quản Thị Hải Yến",
+    "lit": 6.25,
+    "eng": 3,
+    "math": 4.75,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140073",
+    "name": "Lý Thái Bảo Châu",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 3,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140075",
+    "name": "Lưu Minh Chiến",
+    "lit": 6,
+    "eng": 4.5,
+    "math": 3.5,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140092",
+    "name": "Lưu Tiến Đạt",
+    "lit": 3,
+    "eng": 6.25,
+    "math": 4.75,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140179",
+    "name": "Trần Thanh Tâm",
+    "lit": 5.25,
+    "eng": 5.25,
+    "math": 3.5,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140182",
+    "name": "Lâm Thị Thanh Thảo",
+    "lit": 7,
+    "eng": 1.75,
+    "math": 5.25,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140195",
+    "name": "Lâm Thúy Trang",
+    "lit": 7.5,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 14,
+    "rank": 98
+  },
+  {
+    "sbd": "1140059",
+    "name": "Trần Đức Anh",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 4.25,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140076",
+    "name": "Trương Đức Chí",
+    "lit": 6.75,
+    "eng": 3,
+    "math": 4,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140142",
+    "name": "Nguyễn Khánh Linh",
+    "lit": 6.75,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140149",
+    "name": "Lại Thị Tuyết Mai",
+    "lit": 6.75,
+    "eng": 3.75,
+    "math": 3.25,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140161",
+    "name": "Diệp Tiến Ngọc",
+    "lit": 6,
+    "eng": 2.5,
+    "math": 5.25,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140163",
+    "name": "Ôn Bảo Nhi",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 3.25,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140186",
+    "name": "Lương Phúc Thịnh",
+    "lit": 7.25,
+    "eng": 3.5,
+    "math": 3,
+    "total": 13.75,
+    "rank": 106
+  },
+  {
+    "sbd": "1140122",
+    "name": "Dương Thị Huyền",
+    "lit": 7,
+    "eng": 4.5,
+    "math": 2,
+    "total": 13.5,
+    "rank": 113
+  },
+  {
+    "sbd": "1140131",
+    "name": "Nguyễn Tuấn Khang",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 3.75,
+    "total": 13.5,
+    "rank": 113
+  },
+  {
+    "sbd": "1140165",
+    "name": "Trần Thi Tâm Như",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 3.75,
+    "total": 13.5,
+    "rank": 113
+  },
+  {
+    "sbd": "1140167",
+    "name": "Nguyễn Tuyết Oanh",
+    "lit": 6.25,
+    "eng": 2.75,
+    "math": 4.5,
+    "total": 13.5,
+    "rank": 113
+  },
+  {
+    "sbd": "1140209",
+    "name": "Hoàng Minh Vũ",
+    "lit": 5,
+    "eng": 4,
+    "math": 4.5,
+    "total": 13.5,
+    "rank": 113
+  },
+  {
+    "sbd": "1140052",
+    "name": "Khổng Duy Anh",
+    "lit": 6,
+    "eng": 3.5,
+    "math": 3.75,
+    "total": 13.25,
+    "rank": 118
+  },
+  {
+    "sbd": "1140090",
+    "name": "Lê Tuấn Dũng",
+    "lit": 5.5,
+    "eng": 4.25,
+    "math": 3.5,
+    "total": 13.25,
+    "rank": 118
+  },
+  {
+    "sbd": "1140106",
+    "name": "Đỗ Minh Hiếu",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 13.25,
+    "rank": 118
+  },
+  {
+    "sbd": "1140112",
+    "name": "Mạc Văn Hiếu",
+    "lit": 5.25,
+    "eng": 2.5,
+    "math": 5.5,
+    "total": 13.25,
+    "rank": 118
+  },
+  {
+    "sbd": "1140114",
+    "name": "Trần Văn Hiếu",
+    "lit": 6,
+    "eng": 3.25,
+    "math": 4,
+    "total": 13.25,
+    "rank": 118
+  },
+  {
+    "sbd": "1140060",
+    "name": "Viên Tuấn Anh",
+    "lit": 6,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140070",
+    "name": "Lưu Thị Hồng Bích",
+    "lit": 7.25,
+    "eng": 2.5,
+    "math": 3.25,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140080",
+    "name": "Phạm Thị Dung",
+    "lit": 7,
+    "eng": 2.75,
+    "math": 3.25,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140085",
+    "name": "Lưu Đức Duy",
+    "lit": 4.75,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140091",
+    "name": "Tôn Mạnh Dũng",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 3.5,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140104",
+    "name": "Diệp Minh Hiếu",
+    "lit": 5.25,
+    "eng": 4,
+    "math": 3.75,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140117",
+    "name": "Lâm Khánh Hòa",
+    "lit": 6,
+    "eng": 2.75,
+    "math": 4.25,
+    "total": 13,
+    "rank": 123
+  },
+  {
+    "sbd": "1140048",
+    "name": "Bàng Hoàng Anh",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 2.75,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140054",
+    "name": "Lê Thị Minh Anh",
+    "lit": 5.75,
+    "eng": 2.25,
+    "math": 4.75,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140056",
+    "name": "Lưu Bảo Anh",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140069",
+    "name": "Nguyễn Thanh Bình",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 3,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140077",
+    "name": "Lê Anh Cường",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 3.25,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140188",
+    "name": "Trương Hiếu Thịnh",
+    "lit": 6.5,
+    "eng": 3.75,
+    "math": 2.5,
+    "total": 12.75,
+    "rank": 130
+  },
+  {
+    "sbd": "1140008",
+    "name": "Huyên Mạnh Cường",
+    "lit": 6.5,
+    "eng": 2.5,
+    "math": 3.5,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140050",
+    "name": "Diệp Hoàng Anh",
+    "lit": 6.25,
+    "eng": 3.75,
+    "math": 2.5,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140067",
+    "name": "Nguyễn Văn Bảo",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 3,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140113",
+    "name": "Tô Minh Hiếu",
+    "lit": 6.75,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140146",
+    "name": "Lưu Thái Long",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 2.75,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140154",
+    "name": "Lâm Thị Trà My",
+    "lit": 5.5,
+    "eng": 3.75,
+    "math": 3.25,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140164",
+    "name": "Lâm Thị Quỳnh Như",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 2.75,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140196",
+    "name": "Lục Thị Huyền Trang",
+    "lit": 7.75,
+    "eng": 2.5,
+    "math": 2.25,
+    "total": 12.5,
+    "rank": 136
+  },
+  {
+    "sbd": "1140072",
+    "name": "Tô Thị Thanh Châm",
+    "lit": 6.5,
+    "eng": 3.75,
+    "math": 2,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140103",
+    "name": "Diệp Minh Hiếu",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 3.25,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140130",
+    "name": "Nguyễn Anh Khang",
+    "lit": 5.5,
+    "eng": 2.75,
+    "math": 4,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140138",
+    "name": "Huyên Thị Lành",
+    "lit": 7.5,
+    "eng": 1.75,
+    "math": 3,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140160",
+    "name": "Nguyễn Thành Nghĩa",
+    "lit": 6.75,
+    "eng": 3.5,
+    "math": 2,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140166",
+    "name": "Đàm Anh Nuôi",
+    "lit": 5.5,
+    "eng": 2.25,
+    "math": 4.5,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140168",
+    "name": "Bằng Thanh Phong",
+    "lit": 5.25,
+    "eng": 3,
+    "math": 4,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140197",
+    "name": "Lương Minh Trí",
+    "lit": 5.75,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140200",
+    "name": "Trần Đức Trung",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 2.75,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140208",
+    "name": "Dư Công Vinh",
+    "lit": 6.5,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 12.25,
+    "rank": 144
+  },
+  {
+    "sbd": "1140003",
+    "name": "Nguyễn Hoàng Anh",
+    "lit": 4.5,
+    "eng": 3.5,
+    "math": 4,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140027",
+    "name": "Trần Khánh Linh",
+    "lit": 6,
+    "eng": 3,
+    "math": 3,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140061",
+    "name": "Lê Thị Ngọc Ánh",
+    "lit": 6.25,
+    "eng": 2.25,
+    "math": 3.5,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140087",
+    "name": "Nguyễn Anh Duy",
+    "lit": 5,
+    "eng": 3.5,
+    "math": 3.5,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140184",
+    "name": "Lưu Thị Thanh Thảo",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 2.25,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140205",
+    "name": "Hoàng Anh Tú",
+    "lit": 6,
+    "eng": 1.75,
+    "math": 4.25,
+    "total": 12,
+    "rank": 154
+  },
+  {
+    "sbd": "1140055",
+    "name": "Lục Ánh Nhật Anh",
+    "lit": 4.75,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140111",
+    "name": "Lý Trung Hiếu",
+    "lit": 4.25,
+    "eng": 3.25,
+    "math": 4.25,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140181",
+    "name": "Chu Thái Thành",
+    "lit": 7.25,
+    "eng": 3,
+    "math": 1.5,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140183",
+    "name": "Lê Thị Thanh Thảo",
+    "lit": 6.5,
+    "eng": 2.25,
+    "math": 3,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140192",
+    "name": "Thăng Văn Tiến",
+    "lit": 5.5,
+    "eng": 2.75,
+    "math": 3.5,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140202",
+    "name": "Lê Thanh Tùng",
+    "lit": 5.5,
+    "eng": 1.5,
+    "math": 4.75,
+    "total": 11.75,
+    "rank": 160
+  },
+  {
+    "sbd": "1140058",
+    "name": "Nguyễn Thế Anh",
+    "lit": 5.25,
+    "eng": 3.25,
+    "math": 3,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140088",
+    "name": "Nguyễn Quốc Duy",
+    "lit": 3,
+    "eng": 4.75,
+    "math": 3.75,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140125",
+    "name": "Sầm Thị Thanh Huyền",
+    "lit": 6,
+    "eng": 2.25,
+    "math": 3.25,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140141",
+    "name": "Lưu Thị Linh",
+    "lit": 5.5,
+    "eng": 4.5,
+    "math": 1.5,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140162",
+    "name": "Trần Minh Ngọc",
+    "lit": 5,
+    "eng": 3.75,
+    "math": 2.75,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140185",
+    "name": "Lưu Thị Thắm",
+    "lit": 5.25,
+    "eng": 3,
+    "math": 3.25,
+    "total": 11.5,
+    "rank": 166
+  },
+  {
+    "sbd": "1140109",
+    "name": "Lý Đình Hiếu",
+    "lit": 4.25,
+    "eng": 4,
+    "math": 3,
+    "total": 11.25,
+    "rank": 172
+  },
+  {
+    "sbd": "1140116",
+    "name": "Diệp Văn Hoàng",
+    "lit": 4.5,
+    "eng": 2.75,
+    "math": 4,
+    "total": 11.25,
+    "rank": 172
+  },
+  {
+    "sbd": "1140086",
+    "name": "Ngô Kiến Duy",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 11,
+    "rank": 174
+  },
+  {
+    "sbd": "1140094",
+    "name": "Lưu Thị Thu Hà",
+    "lit": 5.75,
+    "eng": 4,
+    "math": 1.25,
+    "total": 11,
+    "rank": 174
+  },
+  {
+    "sbd": "1140110",
+    "name": "Lý Trung Hiếu",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 11,
+    "rank": 174
+  },
+  {
+    "sbd": "1140159",
+    "name": "Phó Đức Ngân",
+    "lit": 5.25,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 11,
+    "rank": 174
+  },
+  {
+    "sbd": "1140172",
+    "name": "Nguyễn Văn Quyết",
+    "lit": 5,
+    "eng": 2.5,
+    "math": 3.5,
+    "total": 11,
+    "rank": 174
+  },
+  {
+    "sbd": "1140079",
+    "name": "Trương Văn Dần",
+    "lit": 3,
+    "eng": 4.25,
+    "math": 3.5,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140120",
+    "name": "Tống Chí Huy",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 1.25,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140135",
+    "name": "Hoàng Duy Khánh",
+    "lit": 4.25,
+    "eng": 3,
+    "math": 3.5,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140155",
+    "name": "Phạm Trà My",
+    "lit": 5.25,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140173",
+    "name": "Trần Trung Quyết",
+    "lit": 5,
+    "eng": 2.25,
+    "math": 3.5,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140178",
+    "name": "Lê Quốc Tâm",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 3,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140180",
+    "name": "Trương Thị Kiều Thanh",
+    "lit": 6.5,
+    "eng": 2.75,
+    "math": 1.5,
+    "total": 10.75,
+    "rank": 179
+  },
+  {
+    "sbd": "1140071",
+    "name": "Hoàng Quang Bộ",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 2.75,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140084",
+    "name": "Hoàng Đức Duy",
+    "lit": 5.25,
+    "eng": 2.5,
+    "math": 2.75,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140121",
+    "name": "Diệp Thanh Huyền",
+    "lit": 5.5,
+    "eng": 2,
+    "math": 3,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140140",
+    "name": "Lâm Thị Diệu Linh",
+    "lit": 6.25,
+    "eng": 2.5,
+    "math": 1.75,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140147",
+    "name": "Nguyễn Thành Lương",
+    "lit": 5,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140174",
+    "name": "Đàm Mạnh Quỳnh",
+    "lit": 6,
+    "eng": 2.5,
+    "math": 2,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140199",
+    "name": "Hoàng Văn Trung",
+    "lit": 5,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140210",
+    "name": "Trương Thiên Vũ",
+    "lit": 5,
+    "eng": 4.5,
+    "math": 1,
+    "total": 10.5,
+    "rank": 186
+  },
+  {
+    "sbd": "1140082",
+    "name": "Diệp Đức Duy",
+    "lit": 4,
+    "eng": 3.5,
+    "math": 2.75,
+    "total": 10.25,
+    "rank": 194
+  },
+  {
+    "sbd": "1140148",
+    "name": "Đặng Văn Mai",
+    "lit": 6,
+    "eng": 3,
+    "math": 1.25,
+    "total": 10.25,
+    "rank": 194
+  },
+  {
+    "sbd": "1140171",
+    "name": "Phó Anh Quyền",
+    "lit": 5.25,
+    "eng": 3.25,
+    "math": 1.75,
+    "total": 10.25,
+    "rank": 194
+  },
+  {
+    "sbd": "1140064",
+    "name": "Lưu Gia Bảo",
+    "lit": 4.25,
+    "eng": 3.5,
+    "math": 2.25,
+    "total": 10,
+    "rank": 197
+  },
+  {
+    "sbd": "1140128",
+    "name": "Diệp Tuấn Hưng",
+    "lit": 4.5,
+    "eng": 3.5,
+    "math": 2,
+    "total": 10,
+    "rank": 197
+  },
+  {
+    "sbd": "1140132",
+    "name": "Trương Thái Khang",
+    "lit": 5.5,
+    "eng": 3.75,
+    "math": 0.75,
+    "total": 10,
+    "rank": 197
+  },
+  {
+    "sbd": "1140157",
+    "name": "Trương Thị Trà My",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 1,
+    "total": 10,
+    "rank": 197
+  },
+  {
+    "sbd": "1140158",
+    "name": "Lục Thị Nga",
+    "lit": 4.25,
+    "eng": 2.75,
+    "math": 3,
+    "total": 10,
+    "rank": 197
+  },
+  {
+    "sbd": "1140065",
+    "name": "Lý Thái Bảo",
+    "lit": 4,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 9.5,
+    "rank": 202
+  },
+  {
+    "sbd": "1140115",
+    "name": "Vũ Đức Hiếu",
+    "lit": 3.5,
+    "eng": 3.5,
+    "math": 2.5,
+    "total": 9.5,
+    "rank": 202
+  },
+  {
+    "sbd": "1140126",
+    "name": "Bùi Duy Hùng",
+    "lit": 3.75,
+    "eng": 3.75,
+    "math": 1.75,
+    "total": 9.25,
+    "rank": 204
+  },
+  {
+    "sbd": "1140129",
+    "name": "Lý Ngọc Hương",
+    "lit": 5.25,
+    "eng": 2.75,
+    "math": 1,
+    "total": 9,
+    "rank": 205
+  },
+  {
+    "sbd": "1140099",
+    "name": "Bùi Việt Hải",
+    "lit": 3.5,
+    "eng": 3.5,
+    "math": 1.75,
+    "total": 8.75,
+    "rank": 206
+  },
+  {
+    "sbd": "1140119",
+    "name": "Ôn Quang Huy",
+    "lit": 4.5,
+    "eng": 3,
+    "math": 1,
+    "total": 8.5,
+    "rank": 207
+  },
+  {
+    "sbd": "1140189",
+    "name": "Trương Thị Hồng Thơm",
+    "lit": 2,
+    "eng": 3.5,
+    "math": 2.5,
+    "total": 8,
+    "rank": 208
+  },
+  {
+    "sbd": "1140139",
+    "name": "Lam Thị Phương Linh",
+    "lit": 3.75,
+    "eng": 2.75,
+    "math": 1,
+    "total": 7.5,
+    "rank": 209
+  },
+  {
+    "sbd": "1140144",
+    "name": "Trần Thị Kiều Linh",
+    "lit": 2.75,
+    "eng": 3.5,
+    "math": 1.25,
+    "total": 7.5,
+    "rank": 209
+  }
+]

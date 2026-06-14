@@ -238,6 +238,35 @@
       color: var(--primary-color);
       font-weight: 600;
     }
+    
+    /* School selector styles */
+    .school-btn {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      padding: 10px 16px;
+      color: var(--text-secondary);
+      font-size: 14px;
+      font-weight: 500;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.3s;
+      outline: none;
+    }
+    
+    .school-btn:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+    
+    .school-btn.active {
+      background: rgba(99, 102, 241, 0.15) !important;
+      border-color: var(--primary-color) !important;
+      color: #fff !important;
+      box-shadow: 0 0 15px rgba(99, 102, 241, 0.25);
+      font-weight: 600;
+    }
   </style>
 </head>
 <body>
@@ -249,7 +278,16 @@
       <h1 class="search-title">TRA CỨU ĐIỂM THI LỚP 10</h1>
       <div class="warning-banner" style="background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 12px 16px; margin: 16px auto 24px auto; max-width: 650px; font-size: 13.5px; color: #fbbf24; display: flex; align-items: center; justify-content: center; gap: 8px; line-height: 1.5;">
         <i class="fa-solid fa-triangle-exclamation" style="font-size: 16px;"></i>
-        <span>Dữ liệu thu thập (crawl) từ dải SBD 1020001 - 1020577 (Sở GD&ĐT Phú Thọ) | Xem với mục đích tham khảo, độ chính xác khoảng 90%</span>
+        <span>Dữ liệu thu thập (crawl) từ các trường THPT Phú Thọ | Xem với mục đích tham khảo, độ chính xác khoảng 90%</span>
+      </div>
+      
+      <!-- School Selector Buttons -->
+      <div class="school-selector" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 24px;">
+        <button class="school-btn active" data-school="102">Trường 102</button>
+        <button class="school-btn" data-school="101">Trường 101</button>
+        <button class="school-btn" data-school="112">Trường 112</button>
+        <button class="school-btn" data-school="114">Trường 114</button>
+        <button class="school-btn" data-school="115">Trường 115</button>
       </div>
       
       <div style="position: relative;">

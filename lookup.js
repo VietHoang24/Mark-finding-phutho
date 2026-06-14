@@ -41,27 +41,70 @@ const elements = {
   analyticsContent: document.getElementById('analyticsContent')
 };
 
-// Initialize Lookup portal
-document.addEventListener('DOMContentLoaded', async () => {
+let currentSchool = '102';
+
+async function loadSchoolData(schoolCode) {
   try {
+    currentSchool = schoolCode;
+    
+    // Reset search input and details card
+    elements.searchInput.value = '';
+    elements.suggestList.style.display = 'none';
+    elements.resultCard.classList.add('hide');
+    elements.globalStats.style.display = 'block';
+    
+    if (elements.leaderboardBody) {
+      elements.leaderboardBody.innerHTML = '<tr><td colspan="7" class="text-center text-muted">Đang tải dữ liệu điểm thi trường...</td></tr>';
+    }
+    
     // Fetch pre-crawled database dynamically
-    const res = await fetch('data.json?v=2');
+    const res = await fetch(`data_${schoolCode}.json?v=2`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
     EXAM_DATA = await res.json();
     
     calculateGlobalStats();
     renderDistributionChart();
     renderFullLeaderboard();
-    setupSearch();
     
-    // Auto-focus search on load
-    elements.searchInput.focus();
+    // Update active button state
+    document.querySelectorAll('.school-btn').forEach(btn => {
+      if (btn.getAttribute('data-school') === schoolCode) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+    
   } catch (err) {
-    console.error("Lỗi tải tệp data.json:", err);
+    console.error(`Lỗi tải tệp data_${schoolCode}.json:`, err);
     if (elements.leaderboardBody) {
-      elements.leaderboardBody.innerHTML = '<tr><td colspan="7" class="text-center text-danger">Không thể tải cơ sở dữ liệu điểm thi (data.json).</td></tr>';
+      elements.leaderboardBody.innerHTML = `<tr><td colspan="7" class="text-center text-danger">Không thể tải cơ sở dữ liệu điểm thi trường ${schoolCode} (data_${schoolCode}.json).</td></tr>`;
     }
   }
+}
+
+// Initialize Lookup portal
+document.addEventListener('DOMContentLoaded', async () => {
+  // Load default school 102
+  await loadSchoolData('102');
+  setupSearch();
+  setupSchoolSelector();
+  
+  // Auto-focus search on load
+  elements.searchInput.focus();
 });
+
+// Setup event listeners for school buttons
+function setupSchoolSelector() {
+  document.querySelectorAll('.school-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const schoolCode = btn.getAttribute('data-school');
+      if (schoolCode !== currentSchool) {
+        loadSchoolData(schoolCode);
+      }
+    });
+  });
+}
 
 // Calculate metrics
 function calculateGlobalStats() {

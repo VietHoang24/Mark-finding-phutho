@@ -19,7 +19,7 @@ Dữ liệu bao gồm **8 mã trường/hội đồng thi**, tương ứng với
 | Mã SBD | Hệ | Số thí sinh |
 |---|---|---|
 | **101** | Công lập | ~420 |
-| **102** | Công lập | ~577 |
+| **102** | Công lập | 574 |
 | **104** | Công lập | ~120 |
 | **112** | Công lập | ~350 |
 | **114** | Công lập | ~380 |

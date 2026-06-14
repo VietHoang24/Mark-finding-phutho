@@ -267,6 +267,17 @@
       box-shadow: 0 0 15px rgba(99, 102, 241, 0.25);
       font-weight: 600;
     }
+    
+    /* Collapsible SBD Guide */
+    details.sbd-guide summary::-webkit-details-marker {
+      display: none;
+    }
+    details.sbd-guide summary {
+      list-style: none;
+    }
+    details[open] .toggle-icon {
+      transform: rotate(180deg);
+    }
   </style>
 </head>
 <body>
@@ -281,14 +292,62 @@
         <span>Dữ liệu thu thập (crawl) từ các trường THPT Phú Thọ | Xem với mục đích tham khảo, độ chính xác khoảng 90%</span>
       </div>
       
-      <!-- School Selector Buttons -->
-      <div class="school-selector" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 24px;">
-        <button class="school-btn" data-school="101">Trường 101</button>
-        <button class="school-btn active" data-school="102">Trường 102</button>
-        <button class="school-btn" data-school="104">Trường 104</button>
-        <button class="school-btn" data-school="112">Trường 112</button>
-        <button class="school-btn" data-school="114">Trường 114</button>
-        <button class="school-btn" data-school="115">Trường 115</button>
+      <!-- School Selector Container -->
+      <div class="school-selector-container" style="max-width: 550px; margin: 0 auto 24px auto; text-align: left; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 12px; padding: 16px 20px;">
+        <label for="schoolSelect" style="display: block; font-size: 13.5px; font-weight: 600; color: #fff; margin-bottom: 8px; font-family: 'Outfit', sans-serif;">
+          <i class="fa-solid fa-school" style="color: var(--primary-color); margin-right: 6px;"></i> CHỌN TRƯỜNG THPT / KHỐI THI:
+        </label>
+        <div style="position: relative;">
+          <select id="schoolSelect" style="width: 100%; padding: 12px 16px; background: rgba(0, 0, 0, 0.3); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #fff; font-size: 14.5px; font-family: inherit; outline: none; cursor: pointer; appearance: none; -webkit-appearance: none; -moz-appearance: none; transition: border-color 0.3s;">
+            <option value="101">Trường THPT Mã 101 (Hệ Công lập)</option>
+            <option value="102" selected>Trường THPT Mã 102 (Hệ Công lập - Mặc định)</option>
+            <option value="104">Trường THPT Mã 104 (Hệ Công lập)</option>
+            <option value="112">Trường THPT Mã 112 (Hệ Công lập)</option>
+            <option value="114">Trường THPT Mã 114 (Hệ Công lập)</option>
+            <option value="115">Trường THPT Mã 115 (Hệ Công lập)</option>
+            <option value="206">Trường/Trung tâm Mã 206 (Hệ Tư thục / GDTX / Nghề)</option>
+            <option value="219">Trường/Trung tâm Mã 219 (Hệ Tư thục / GDTX / Nghề)</option>
+          </select>
+          <i class="fa-solid fa-chevron-down" style="position: absolute; right: 16px; top: 50%; transform: translateY(-50%); color: var(--text-secondary); pointer-events: none; font-size: 13px;"></i>
+        </div>
+        
+        <!-- SBD Prefix Info Guide (Collapsible details) -->
+        <details class="sbd-guide" style="margin-top: 16px; padding: 12px 16px; background: rgba(255, 255, 255, 0.01); border: 1px solid rgba(255, 255, 255, 0.04); border-radius: 8px; font-size: 13px; color: var(--text-secondary); text-align: left; line-height: 1.6; outline: none;">
+          <summary style="font-weight: 700; color: #fbbf24; font-size: 13.5px; cursor: pointer; display: flex; align-items: center; gap: 8px; list-style: none; outline: none; user-select: none;">
+            <i class="fa-solid fa-circle-info" style="color: #fbbf24;"></i> 
+            <span>TRA CỨU CẤU TRÚC & CHÚ THÍCH ĐẦU SỐ SBD</span>
+            <i class="fa-solid fa-chevron-down toggle-icon" style="margin-left: auto; font-size: 11px; transition: transform 0.3s; color: var(--text-secondary);"></i>
+          </summary>
+          
+          <div class="sbd-guide-content" style="margin-top: 14px; border-top: 1px solid rgba(255, 255, 255, 0.05); padding-top: 12px;">
+            <!-- SBD Structure visual representation -->
+            <div style="display: flex; gap: 6px; margin-bottom: 12px; font-family: 'Fira Code', monospace; justify-content: center; font-size: 14px; background: rgba(0, 0, 0, 0.25); padding: 8px; border-radius: 6px; border: 1px solid rgba(255, 255, 255, 0.04);">
+              <span style="color: #60a5fa; font-weight: 700;" title="Mã trường đăng ký dự tuyển (3 chữ số)">[Mã Trường: 3 Số]</span>
+              <span style="color: rgba(255, 255, 255, 0.4);">+</span>
+              <span style="color: #34d399; font-weight: 700;" title="Số thứ tự thí sinh (4 chữ số)">[Số Thứ Tự: 4 Số]</span>
+            </div>
+
+            <p style="margin: 0 0 10px 0;">Số báo danh Phú Thọ gồm 7 chữ số. Trong đó, 3 chữ số đầu tiên định danh nơi đăng ký thi tuyển/xét tuyển:</p>
+            
+            <ul style="margin: 0; padding-left: 18px; list-style-type: none;">
+              <li style="margin-bottom: 10px; position: relative;">
+                <span style="position: absolute; left: -14px; color: #60a5fa;">•</span>
+                <strong style="color: #fff;">Đầu số <code>1XX</code> (Hệ Công lập):</strong> Dành cho thí sinh thi tuyển vào các trường THPT Công lập.
+                <div style="font-size: 12px; color: var(--text-muted); margin-top: 3px; background: rgba(255, 255, 255, 0.02); padding: 6px 10px; border-radius: 4px; border-left: 2px solid #60a5fa;">
+                  Hiện tại hỗ trợ tra cứu: <strong>101, 102 (mặc định), 104, 112, 114, 115</strong>.
+                </div>
+              </li>
+              <li style="position: relative;">
+                <span style="position: absolute; left: -14px; color: #f59e0b;">•</span>
+                <strong style="color: #fff;">Đầu số <code>2XX</code> (Hệ Tư thục / GDTX / Nghề):</strong> Dành cho thí sinh đăng ký xét tuyển vào THPT Tư thục, Trung tâm GDTX, hoặc các trường Trung cấp/Cao đẳng Nghề.
+                <div style="font-size: 12px; color: var(--text-muted); margin-top: 3px; background: rgba(255, 255, 255, 0.02); padding: 6px 10px; border-radius: 4px; border-left: 2px solid #f59e0b;">
+                  Hiện tại hỗ trợ tra cứu: <strong>206, 219</strong> (bao gồm cả thí sinh thi 2 môn hoặc thi đủ 3 môn).
+                </div>
+              </li>
+            </ul>
+          </div>
+        </details>
+
       </div>
       
       <div style="position: relative;">

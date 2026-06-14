@@ -1,0 +1,3386 @@
+[
+  {
+    "sbd": "2060023",
+    "name": "Bùi Khánh Ly",
+    "lit": 8.25,
+    "eng": 8.25,
+    "math": 7,
+    "total": 23.5,
+    "rank": 1
+  },
+  {
+    "sbd": "2060039",
+    "name": "Nguyễn Nguyên Vũ",
+    "lit": 6.75,
+    "eng": 8.25,
+    "math": 7,
+    "total": 22,
+    "rank": 2
+  },
+  {
+    "sbd": "2060001",
+    "name": "Bùi Thu An",
+    "lit": 8,
+    "eng": 7,
+    "math": 6.5,
+    "total": 21.5,
+    "rank": 3
+  },
+  {
+    "sbd": "2060030",
+    "name": "Lê Thảo Nhung",
+    "lit": 7,
+    "eng": 7.25,
+    "math": 7.25,
+    "total": 21.5,
+    "rank": 3
+  },
+  {
+    "sbd": "2060037",
+    "name": "Bùi Thị Thuý Vân",
+    "lit": 8,
+    "eng": 6.25,
+    "math": 7.25,
+    "total": 21.5,
+    "rank": 3
+  },
+  {
+    "sbd": "2060021",
+    "name": "Nguyễn Phương Linh",
+    "lit": 8,
+    "eng": 6.5,
+    "math": 6.75,
+    "total": 21.25,
+    "rank": 6
+  },
+  {
+    "sbd": "2060025",
+    "name": "Bùi Thị Quỳnh Nga",
+    "lit": 7,
+    "eng": 7.5,
+    "math": 6.75,
+    "total": 21.25,
+    "rank": 6
+  },
+  {
+    "sbd": "2060160",
+    "name": "Nguyễn Hà Phương",
+    "lit": 7.25,
+    "eng": 6.5,
+    "math": 7.5,
+    "total": 21.25,
+    "rank": 6
+  },
+  {
+    "sbd": "2060017",
+    "name": "Bùi Thị Kim Huệ",
+    "lit": 6.75,
+    "eng": 7.25,
+    "math": 7,
+    "total": 21,
+    "rank": 9
+  },
+  {
+    "sbd": "2060026",
+    "name": "Nguyễn Hà Ngân",
+    "lit": 6.75,
+    "eng": 7.75,
+    "math": 6.25,
+    "total": 20.75,
+    "rank": 10
+  },
+  {
+    "sbd": "2060054",
+    "name": "Bùi Tiến Anh",
+    "lit": 7.25,
+    "eng": 6.5,
+    "math": 6.75,
+    "total": 20.5,
+    "rank": 11
+  },
+  {
+    "sbd": "2060092",
+    "name": "Nguyễn Hoàng Hà",
+    "lit": 6.75,
+    "eng": 7,
+    "math": 6.75,
+    "total": 20.5,
+    "rank": 11
+  },
+  {
+    "sbd": "2060019",
+    "name": "Lê Thanh Huyền",
+    "lit": 7.5,
+    "eng": 5.75,
+    "math": 7,
+    "total": 20.25,
+    "rank": 13
+  },
+  {
+    "sbd": "2060038",
+    "name": "Bùi Hà Vi",
+    "lit": 7.5,
+    "eng": 7.75,
+    "math": 5,
+    "total": 20.25,
+    "rank": 13
+  },
+  {
+    "sbd": "2060008",
+    "name": "Đồng Quang Chung",
+    "lit": 7.25,
+    "eng": 5.75,
+    "math": 7,
+    "total": 20,
+    "rank": 15
+  },
+  {
+    "sbd": "2060085",
+    "name": "Nguyễn Tất Đạt",
+    "lit": 7,
+    "eng": 8,
+    "math": 5,
+    "total": 20,
+    "rank": 15
+  },
+  {
+    "sbd": "2060288",
+    "name": "Nguyễn Khánh Kiên",
+    "lit": 8,
+    "eng": 6,
+    "math": 6,
+    "total": 20,
+    "rank": 15
+  },
+  {
+    "sbd": "2060115",
+    "name": "Bùi Kim Khánh",
+    "lit": 8,
+    "eng": 6.75,
+    "math": 5,
+    "total": 19.75,
+    "rank": 18
+  },
+  {
+    "sbd": "2060317",
+    "name": "Chu Thiện Nhân",
+    "lit": 6.5,
+    "eng": 7.25,
+    "math": 6,
+    "total": 19.75,
+    "rank": 18
+  },
+  {
+    "sbd": "2060041",
+    "name": "Phùng Triệu Vy",
+    "lit": 6,
+    "eng": 6,
+    "math": 7.5,
+    "total": 19.5,
+    "rank": 20
+  },
+  {
+    "sbd": "2060002",
+    "name": "Nguyễn Đức Bảo An",
+    "lit": 6.5,
+    "eng": 6.75,
+    "math": 6,
+    "total": 19.25,
+    "rank": 21
+  },
+  {
+    "sbd": "2060042",
+    "name": "Bùi Bảo An",
+    "lit": 7.25,
+    "eng": 6.75,
+    "math": 5.25,
+    "total": 19.25,
+    "rank": 21
+  },
+  {
+    "sbd": "2060046",
+    "name": "Lâm An",
+    "lit": 7.25,
+    "eng": 6,
+    "math": 6,
+    "total": 19.25,
+    "rank": 21
+  },
+  {
+    "sbd": "2060003",
+    "name": "Bùi Hà Anh",
+    "lit": 7.5,
+    "eng": 5.25,
+    "math": 6.25,
+    "total": 19,
+    "rank": 24
+  },
+  {
+    "sbd": "2060033",
+    "name": "Bùi Thị Hương Thảo",
+    "lit": 6.75,
+    "eng": 6.75,
+    "math": 5.5,
+    "total": 19,
+    "rank": 24
+  },
+  {
+    "sbd": "2060080",
+    "name": "Bùi Quang Dũng",
+    "lit": 7.25,
+    "eng": 4.5,
+    "math": 7.25,
+    "total": 19,
+    "rank": 24
+  },
+  {
+    "sbd": "2060100",
+    "name": "Bùi Thị Thu Hiền",
+    "lit": 7.75,
+    "eng": 6,
+    "math": 5.25,
+    "total": 19,
+    "rank": 24
+  },
+  {
+    "sbd": "2060147",
+    "name": "Bùi Hoàng Nam",
+    "lit": 7,
+    "eng": 5.75,
+    "math": 6.25,
+    "total": 19,
+    "rank": 24
+  },
+  {
+    "sbd": "2060036",
+    "name": "Lê Quỳnh Trâm",
+    "lit": 8.5,
+    "eng": 4.5,
+    "math": 5.75,
+    "total": 18.75,
+    "rank": 29
+  },
+  {
+    "sbd": "2060040",
+    "name": "Nguyễn Hà Vy",
+    "lit": 6.75,
+    "eng": 7.25,
+    "math": 4.75,
+    "total": 18.75,
+    "rank": 29
+  },
+  {
+    "sbd": "2060170",
+    "name": "Hà Tấn Tài",
+    "lit": 6.75,
+    "eng": 6,
+    "math": 6,
+    "total": 18.75,
+    "rank": 29
+  },
+  {
+    "sbd": "2060015",
+    "name": "Nguyễn Thị Tuyết Hoa",
+    "lit": 6.75,
+    "eng": 5.75,
+    "math": 6,
+    "total": 18.5,
+    "rank": 32
+  },
+  {
+    "sbd": "2060009",
+    "name": "Lương Minh Đức",
+    "lit": 6.25,
+    "eng": 4.75,
+    "math": 7.25,
+    "total": 18.25,
+    "rank": 33
+  },
+  {
+    "sbd": "2060020",
+    "name": "Bùi Nguyễn Việt Linh",
+    "lit": 7.25,
+    "eng": 5,
+    "math": 6,
+    "total": 18.25,
+    "rank": 33
+  },
+  {
+    "sbd": "2060022",
+    "name": "Quách Thị Linh",
+    "lit": 5.5,
+    "eng": 6.75,
+    "math": 6,
+    "total": 18.25,
+    "rank": 33
+  },
+  {
+    "sbd": "2060088",
+    "name": "Bùi Thị Hương Giang",
+    "lit": 6.75,
+    "eng": 6.5,
+    "math": 5,
+    "total": 18.25,
+    "rank": 33
+  },
+  {
+    "sbd": "2060216",
+    "name": "Bùi Tố Uyên",
+    "lit": 7,
+    "eng": 6,
+    "math": 5.25,
+    "total": 18.25,
+    "rank": 33
+  },
+  {
+    "sbd": "2060010",
+    "name": "Vũ Gia Đức",
+    "lit": 6.25,
+    "eng": 6.25,
+    "math": 5.5,
+    "total": 18,
+    "rank": 38
+  },
+  {
+    "sbd": "2060035",
+    "name": "Lê Anh Thư",
+    "lit": 7.75,
+    "eng": 5.25,
+    "math": 5,
+    "total": 18,
+    "rank": 38
+  },
+  {
+    "sbd": "2060072",
+    "name": "Nguyễn Khánh Chi",
+    "lit": 7.25,
+    "eng": 6.25,
+    "math": 4.5,
+    "total": 18,
+    "rank": 38
+  },
+  {
+    "sbd": "2060131",
+    "name": "Trần Diệu Linh",
+    "lit": 6.75,
+    "eng": 5,
+    "math": 6.25,
+    "total": 18,
+    "rank": 38
+  },
+  {
+    "sbd": "2060084",
+    "name": "Bùi Thành Đạt",
+    "lit": 5.75,
+    "eng": 6,
+    "math": 6,
+    "total": 17.75,
+    "rank": 42
+  },
+  {
+    "sbd": "2060176",
+    "name": "Trần Thu Thảo",
+    "lit": 7.25,
+    "eng": 6.25,
+    "math": 4.25,
+    "total": 17.75,
+    "rank": 42
+  },
+  {
+    "sbd": "2060006",
+    "name": "Bùi Thị Minh Ánh",
+    "lit": 6.25,
+    "eng": 6,
+    "math": 5.25,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060027",
+    "name": "Nguyễn Thị Ánh Nguyệt",
+    "lit": 7,
+    "eng": 4.75,
+    "math": 5.75,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060032",
+    "name": "Vũ Phương Thanh",
+    "lit": 7,
+    "eng": 6,
+    "math": 4.5,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060068",
+    "name": "Bùi Thị Khánh Bình",
+    "lit": 7.5,
+    "eng": 3.75,
+    "math": 6.25,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060114",
+    "name": "Bùi Thị Lan Hương",
+    "lit": 6.75,
+    "eng": 5.25,
+    "math": 5.5,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060126",
+    "name": "Bùi Thị Hoài Linh",
+    "lit": 7.5,
+    "eng": 3.75,
+    "math": 6.25,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060142",
+    "name": "Chu Minh",
+    "lit": 5,
+    "eng": 8.25,
+    "math": 4.25,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060155",
+    "name": "Bùi Thị An Nhiên",
+    "lit": 7,
+    "eng": 5.25,
+    "math": 5.25,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060169",
+    "name": "Bùi Nguyễn Hoàng Sơn",
+    "lit": 7,
+    "eng": 3.5,
+    "math": 7,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060193",
+    "name": "Dương Hoàng Minh Trang",
+    "lit": 6.75,
+    "eng": 4.75,
+    "math": 6,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060194",
+    "name": "Phan Thùy Trang",
+    "lit": 7.25,
+    "eng": 5.5,
+    "math": 4.75,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060203",
+    "name": "Lê Minh Trường",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 6.5,
+    "total": 17.5,
+    "rank": 44
+  },
+  {
+    "sbd": "2060024",
+    "name": "Đinh Hoàng Nam",
+    "lit": 5.75,
+    "eng": 5.25,
+    "math": 6.25,
+    "total": 17.25,
+    "rank": 56
+  },
+  {
+    "sbd": "2060034",
+    "name": "Bùi Anh Thư",
+    "lit": 7,
+    "eng": 5.25,
+    "math": 5,
+    "total": 17.25,
+    "rank": 56
+  },
+  {
+    "sbd": "2060164",
+    "name": "Bùi Nhật Quốc",
+    "lit": 7,
+    "eng": 5.25,
+    "math": 5,
+    "total": 17.25,
+    "rank": 56
+  },
+  {
+    "sbd": "2060358",
+    "name": "Bùi Anh Tuấn",
+    "lit": 6,
+    "eng": 5.5,
+    "math": 5.75,
+    "total": 17.25,
+    "rank": 56
+  },
+  {
+    "sbd": "2060055",
+    "name": "Nguyễn Phương Anh",
+    "lit": 7.5,
+    "eng": 4,
+    "math": 5.5,
+    "total": 17,
+    "rank": 60
+  },
+  {
+    "sbd": "2060057",
+    "name": "Nguyễn Việt Anh",
+    "lit": 6.25,
+    "eng": 4.5,
+    "math": 6.25,
+    "total": 17,
+    "rank": 60
+  },
+  {
+    "sbd": "2060165",
+    "name": "Bùi Thị Ngọc Quyên",
+    "lit": 6.25,
+    "eng": 4.25,
+    "math": 6.5,
+    "total": 17,
+    "rank": 60
+  },
+  {
+    "sbd": "2060252",
+    "name": "Triệu Thị Thuỳ Dương",
+    "lit": 6,
+    "eng": 4.75,
+    "math": 6.25,
+    "total": 17,
+    "rank": 60
+  },
+  {
+    "sbd": "2060069",
+    "name": "Bùi Thị Kim Bình",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 5.75,
+    "total": 16.75,
+    "rank": 64
+  },
+  {
+    "sbd": "2060105",
+    "name": "Nguyễn Gia Huy",
+    "lit": 5.5,
+    "eng": 4.25,
+    "math": 7,
+    "total": 16.75,
+    "rank": 64
+  },
+  {
+    "sbd": "2060181",
+    "name": "Bùi Thị Thu Thuỷ",
+    "lit": 6.75,
+    "eng": 4.75,
+    "math": 5.25,
+    "total": 16.75,
+    "rank": 64
+  },
+  {
+    "sbd": "2060200",
+    "name": "Bùi Thanh Trúc",
+    "lit": 7.75,
+    "eng": 4.25,
+    "math": 4.75,
+    "total": 16.75,
+    "rank": 64
+  },
+  {
+    "sbd": "2060004",
+    "name": "Bùi Tuấn Anh",
+    "lit": 5.75,
+    "eng": 3.5,
+    "math": 7.25,
+    "total": 16.5,
+    "rank": 68
+  },
+  {
+    "sbd": "2060056",
+    "name": "Nguyễn Phương Anh",
+    "lit": 6.5,
+    "eng": 4.5,
+    "math": 5.5,
+    "total": 16.5,
+    "rank": 68
+  },
+  {
+    "sbd": "2060106",
+    "name": "Nguyễn Văn Huy",
+    "lit": 5.25,
+    "eng": 4,
+    "math": 7.25,
+    "total": 16.5,
+    "rank": 68
+  },
+  {
+    "sbd": "2060204",
+    "name": "Đinh Mạnh Tuân",
+    "lit": 5,
+    "eng": 5.25,
+    "math": 6.25,
+    "total": 16.5,
+    "rank": 68
+  },
+  {
+    "sbd": "2060014",
+    "name": "Nguyễn Minh Hiếu",
+    "lit": 3.75,
+    "eng": 5.25,
+    "math": 7.25,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060065",
+    "name": "Phạm Thế Bảo",
+    "lit": 6.75,
+    "eng": 5,
+    "math": 4.5,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060094",
+    "name": "Bùi Ngọc Hảo Hảo",
+    "lit": 7,
+    "eng": 4.75,
+    "math": 4.5,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060128",
+    "name": "Lưu Thái Bảo Linh",
+    "lit": 6.75,
+    "eng": 5,
+    "math": 4.5,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060201",
+    "name": "Bùi Thị Thanh Trúc",
+    "lit": 5.75,
+    "eng": 4.75,
+    "math": 5.75,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060214",
+    "name": "Cao Phúc Tường",
+    "lit": 5.25,
+    "eng": 6.5,
+    "math": 4.5,
+    "total": 16.25,
+    "rank": 72
+  },
+  {
+    "sbd": "2060013",
+    "name": "Đinh Thị Ngọc Hiền",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 6.25,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060018",
+    "name": "Lê Ngọc Gia Huy",
+    "lit": 5.5,
+    "eng": 5,
+    "math": 5.5,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060043",
+    "name": "Bùi Bảo An",
+    "lit": 5,
+    "eng": 6.75,
+    "math": 4.25,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060138",
+    "name": "Lương Ngọc Mai",
+    "lit": 5.25,
+    "eng": 4.5,
+    "math": 6.25,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060153",
+    "name": "Nguyễn Thị Ánh Nguyệt",
+    "lit": 6.75,
+    "eng": 5.25,
+    "math": 4,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060163",
+    "name": "Vũ Minh Quân",
+    "lit": 6.25,
+    "eng": 5,
+    "math": 4.75,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060198",
+    "name": "Doãn Thành Trung",
+    "lit": 7,
+    "eng": 3.75,
+    "math": 5.25,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060208",
+    "name": "Nguyễn Thị Tuyết",
+    "lit": 7.25,
+    "eng": 4,
+    "math": 4.75,
+    "total": 16,
+    "rank": 78
+  },
+  {
+    "sbd": "2060140",
+    "name": "Bùi Ngọc Minh",
+    "lit": 4.5,
+    "eng": 7.5,
+    "math": 3.75,
+    "total": 15.75,
+    "rank": 86
+  },
+  {
+    "sbd": "2060191",
+    "name": "Bùi Thanh Tiền",
+    "lit": 6,
+    "eng": 4.5,
+    "math": 5.25,
+    "total": 15.75,
+    "rank": 86
+  },
+  {
+    "sbd": "2060209",
+    "name": "Bùi Thanh Tùng",
+    "lit": 5,
+    "eng": 5,
+    "math": 5.75,
+    "total": 15.75,
+    "rank": 86
+  },
+  {
+    "sbd": "2060224",
+    "name": "Bùi Tường Vy",
+    "lit": 6.5,
+    "eng": 5,
+    "math": 4.25,
+    "total": 15.75,
+    "rank": 86
+  },
+  {
+    "sbd": "2060011",
+    "name": "Đinh Thu Hà",
+    "lit": 5.5,
+    "eng": 4,
+    "math": 6,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060049",
+    "name": "Bùi Dương Quỳnh Anh",
+    "lit": 7,
+    "eng": 3.5,
+    "math": 5,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060061",
+    "name": "Bùi Hoàng Gia Bảo",
+    "lit": 6.5,
+    "eng": 5,
+    "math": 4,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060074",
+    "name": "Ứng Diệu Quỳnh Chi",
+    "lit": 5.75,
+    "eng": 4,
+    "math": 5.75,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060095",
+    "name": "Bùi Thị Hảo",
+    "lit": 6.75,
+    "eng": 3.75,
+    "math": 5,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060136",
+    "name": "Bùi Phan Ngọc Mai",
+    "lit": 7.75,
+    "eng": 3.25,
+    "math": 4.5,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060150",
+    "name": "Bùi Thị Thu Ngân",
+    "lit": 7.75,
+    "eng": 3.25,
+    "math": 4.5,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060159",
+    "name": "Hoàng Thị Thu Phương",
+    "lit": 7,
+    "eng": 3.5,
+    "math": 5,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060166",
+    "name": "Bùi Thị Nhật Quỳnh",
+    "lit": 6,
+    "eng": 3.75,
+    "math": 5.75,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060210",
+    "name": "Hà Đình Tùng",
+    "lit": 7.25,
+    "eng": 2,
+    "math": 6.25,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060222",
+    "name": "Trịnh Long Vũ",
+    "lit": 6.25,
+    "eng": 4.5,
+    "math": 4.75,
+    "total": 15.5,
+    "rank": 90
+  },
+  {
+    "sbd": "2060007",
+    "name": "Đào Thùy Chi",
+    "lit": 6.75,
+    "eng": 3.75,
+    "math": 4.75,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060016",
+    "name": "Phùng Ánh Hồng",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 5.25,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060045",
+    "name": "Hoàng Gia An",
+    "lit": 5.25,
+    "eng": 5.75,
+    "math": 4.25,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060067",
+    "name": "Bùi Bảo Bình",
+    "lit": 6.25,
+    "eng": 3,
+    "math": 6,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060071",
+    "name": "Bùi Ngọc Bảo Châu",
+    "lit": 5.25,
+    "eng": 5,
+    "math": 5,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060082",
+    "name": "Bùi Huyền Đan Đan",
+    "lit": 6.5,
+    "eng": 4.25,
+    "math": 4.5,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060102",
+    "name": "Đặng Thu Hiền",
+    "lit": 7.5,
+    "eng": 3.5,
+    "math": 4.25,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060167",
+    "name": "Bùi Quang Sáng",
+    "lit": 5.75,
+    "eng": 3.5,
+    "math": 6,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060212",
+    "name": "Bùi Anh Tú",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 5.25,
+    "total": 15.25,
+    "rank": 101
+  },
+  {
+    "sbd": "2060031",
+    "name": "Bùi Dương Quỳnh",
+    "lit": 5.75,
+    "eng": 5,
+    "math": 4.25,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060051",
+    "name": "Bùi Lê Quỳnh Anh",
+    "lit": 6.75,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060077",
+    "name": "Trần Thị Thanh Chúc",
+    "lit": 6.25,
+    "eng": 3,
+    "math": 5.75,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060110",
+    "name": "Vũ Khánh Huyền",
+    "lit": 7,
+    "eng": 4,
+    "math": 4,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060132",
+    "name": "Bùi Tiến Lộc",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 4,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060187",
+    "name": "Bùi Anh Thư",
+    "lit": 6.75,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 15,
+    "rank": 110
+  },
+  {
+    "sbd": "2060091",
+    "name": "Bùi Ngọc Hà",
+    "lit": 6,
+    "eng": 4,
+    "math": 4.75,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060122",
+    "name": "Bùi Hà Linh",
+    "lit": 7,
+    "eng": 3,
+    "math": 4.75,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060143",
+    "name": "Hoàng Gia Minh",
+    "lit": 4.75,
+    "eng": 5.25,
+    "math": 4.75,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060168",
+    "name": "Đào Thị Tình Sen",
+    "lit": 5.75,
+    "eng": 3,
+    "math": 6,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060177",
+    "name": "Bùi Đức Thắng",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 4.75,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060192",
+    "name": "Bùi Thị Thùy Trang",
+    "lit": 6.5,
+    "eng": 4.25,
+    "math": 4,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060324",
+    "name": "Bùi Thanh Phú",
+    "lit": 3.5,
+    "eng": 5.25,
+    "math": 6,
+    "total": 14.75,
+    "rank": 116
+  },
+  {
+    "sbd": "2060012",
+    "name": "Bùi Lý Hải",
+    "lit": 4.25,
+    "eng": 3.5,
+    "math": 6.75,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060029",
+    "name": "Đinh Khánh Nhung",
+    "lit": 4,
+    "eng": 4.25,
+    "math": 6.25,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060044",
+    "name": "Bùi Tâm An",
+    "lit": 5.5,
+    "eng": 1.75,
+    "math": 7.25,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060064",
+    "name": "Phan Bảo Bảo",
+    "lit": 6.25,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060144",
+    "name": "Lê Trang My",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 4.5,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060157",
+    "name": "Bùi Thị Ngọc Phương",
+    "lit": 6.75,
+    "eng": 4,
+    "math": 3.75,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060183",
+    "name": "Bùi Thị Minh Thùy",
+    "lit": 6.25,
+    "eng": 2.75,
+    "math": 5.5,
+    "total": 14.5,
+    "rank": 123
+  },
+  {
+    "sbd": "2060005",
+    "name": "Nguyễn Thị Châu Anh",
+    "lit": 6.5,
+    "eng": 3.25,
+    "math": 4.5,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060062",
+    "name": "Lê Bùi Thái Bảo",
+    "lit": 4.5,
+    "eng": 3,
+    "math": 6.75,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060073",
+    "name": "Triệu Khánh Chi",
+    "lit": 7.25,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060081",
+    "name": "Lê Quý Dương",
+    "lit": 5.5,
+    "eng": 4.5,
+    "math": 4.25,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060125",
+    "name": "Bùi Thị Diệu Linh",
+    "lit": 5,
+    "eng": 5,
+    "math": 4.25,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060127",
+    "name": "Bùi Thị Khánh Linh",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 4.75,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060202",
+    "name": "Hoàng Ngô Thanh Trúc",
+    "lit": 6,
+    "eng": 3.25,
+    "math": 5,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060218",
+    "name": "Nguyễn Thị Cẩm Vân",
+    "lit": 5.5,
+    "eng": 4.25,
+    "math": 4.5,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060285",
+    "name": "Bùi Minh Khương",
+    "lit": 4.75,
+    "eng": 5,
+    "math": 4.5,
+    "total": 14.25,
+    "rank": 130
+  },
+  {
+    "sbd": "2060048",
+    "name": "Trương Linh An",
+    "lit": 5.5,
+    "eng": 3.75,
+    "math": 4.75,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060090",
+    "name": "Trần Hương Giang",
+    "lit": 5.5,
+    "eng": 4,
+    "math": 4.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060096",
+    "name": "Lê Thu Hạnh",
+    "lit": 5.75,
+    "eng": 3.75,
+    "math": 4.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060113",
+    "name": "Bùi Thị Lan Hương",
+    "lit": 6.5,
+    "eng": 3.25,
+    "math": 4.25,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060123",
+    "name": "Bùi Ngọc Linh",
+    "lit": 6,
+    "eng": 4,
+    "math": 4,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060161",
+    "name": "Bùi Thị Phượng",
+    "lit": 7.25,
+    "eng": 3.5,
+    "math": 3.25,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060172",
+    "name": "Nguyễn Đức Thành",
+    "lit": 6,
+    "eng": 4.25,
+    "math": 3.75,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060188",
+    "name": "Bùi Thị Anh Thư",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 3.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060219",
+    "name": "Bùi Thị Tường Vi",
+    "lit": 5.75,
+    "eng": 4,
+    "math": 4.25,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060221",
+    "name": "Trần Anh Vũ",
+    "lit": 5,
+    "eng": 5,
+    "math": 4,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060266",
+    "name": "Bùi Minh Huế",
+    "lit": 6.5,
+    "eng": 4,
+    "math": 3.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060278",
+    "name": "Bùi Thị Quỳnh Hương",
+    "lit": 5.25,
+    "eng": 4,
+    "math": 4.75,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060322",
+    "name": "Nguyễn Hải Phong",
+    "lit": 5,
+    "eng": 3.5,
+    "math": 5.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060337",
+    "name": "Bùi Thị Thảo",
+    "lit": 7.5,
+    "eng": 4,
+    "math": 2.5,
+    "total": 14,
+    "rank": 139
+  },
+  {
+    "sbd": "2060075",
+    "name": "Tạ Ngọc Chiến",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 6,
+    "total": 13.75,
+    "rank": 153
+  },
+  {
+    "sbd": "2060078",
+    "name": "Bùi Ánh Diệp",
+    "lit": 5.5,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 13.75,
+    "rank": 153
+  },
+  {
+    "sbd": "2060116",
+    "name": "Lâm Ngọc Khánh",
+    "lit": 7,
+    "eng": 3.25,
+    "math": 3.5,
+    "total": 13.75,
+    "rank": 153
+  },
+  {
+    "sbd": "2060047",
+    "name": "Lưu Thái An",
+    "lit": 5.75,
+    "eng": 3.5,
+    "math": 4.25,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060076",
+    "name": "Bùi Thanh Chúc",
+    "lit": 6,
+    "eng": 3,
+    "math": 4.5,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060112",
+    "name": "Bùi Quỳnh Hương",
+    "lit": 5,
+    "eng": 4.75,
+    "math": 3.75,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060139",
+    "name": "Ngô Quỳnh Mai",
+    "lit": 5.75,
+    "eng": 3.75,
+    "math": 4,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060207",
+    "name": "Bùi Thị Kim Tuyến",
+    "lit": 7.25,
+    "eng": 3.25,
+    "math": 3,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060213",
+    "name": "Trần Thanh Tú",
+    "lit": 6.25,
+    "eng": 3,
+    "math": 4.25,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060217",
+    "name": "Triệu Phương Uyên",
+    "lit": 5,
+    "eng": 4,
+    "math": 4.5,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060225",
+    "name": "Bùi Thị Hoa Xuân",
+    "lit": 7.5,
+    "eng": 3.5,
+    "math": 2.5,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060363",
+    "name": "Nguyễn Khắc Tú",
+    "lit": 7,
+    "eng": 3.5,
+    "math": 3,
+    "total": 13.5,
+    "rank": 156
+  },
+  {
+    "sbd": "2060053",
+    "name": "Bùi Quỳnh Anh",
+    "lit": 4.5,
+    "eng": 3.5,
+    "math": 5.25,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060060",
+    "name": "Bùi Gia Bảo",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 4.25,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060070",
+    "name": "Nguyễn An Bình",
+    "lit": 6.5,
+    "eng": 2,
+    "math": 4.75,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060103",
+    "name": "Đinh Thị Hồng",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 3.5,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060197",
+    "name": "Bùi Phú Triệu",
+    "lit": 3.75,
+    "eng": 4,
+    "math": 5.5,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060205",
+    "name": "Bùi Anh Tuấn",
+    "lit": 6,
+    "eng": 2.25,
+    "math": 5,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060227",
+    "name": "Nguyễn Ngọc Bảo An",
+    "lit": 7.25,
+    "eng": 2.75,
+    "math": 3.25,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060338",
+    "name": "Bùi Thị Thanh Thảo",
+    "lit": 6.75,
+    "eng": 3.75,
+    "math": 2.75,
+    "total": 13.25,
+    "rank": 165
+  },
+  {
+    "sbd": "2060089",
+    "name": "Bùi Thu Giang",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 4,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060093",
+    "name": "Bùi Hồng Hải",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 4,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060117",
+    "name": "Bùi Quang Khải",
+    "lit": 5.5,
+    "eng": 2.75,
+    "math": 4.75,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060120",
+    "name": "Phạm Thanh Lan",
+    "lit": 6.5,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060129",
+    "name": "Tô Phương Linh",
+    "lit": 6.5,
+    "eng": 3,
+    "math": 3.5,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060137",
+    "name": "Bùi Tuyết Mai",
+    "lit": 6,
+    "eng": 3.5,
+    "math": 3.5,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060186",
+    "name": "Bùi Thị Thanh Thủy",
+    "lit": 6.5,
+    "eng": 3.5,
+    "math": 3,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060206",
+    "name": "Bùi Thanh Tuấn",
+    "lit": 6,
+    "eng": 3,
+    "math": 4,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060296",
+    "name": "Bùi Quang Lộc",
+    "lit": 5.25,
+    "eng": 2.75,
+    "math": 5,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060352",
+    "name": "Bùi Thùy Trâm",
+    "lit": 4.75,
+    "eng": 4.5,
+    "math": 3.75,
+    "total": 13,
+    "rank": 173
+  },
+  {
+    "sbd": "2060098",
+    "name": "Huỳnh Ngọc Hằng",
+    "lit": 5.5,
+    "eng": 4.5,
+    "math": 2.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060104",
+    "name": "Đinh Thị Kim Huế",
+    "lit": 5.5,
+    "eng": 3.5,
+    "math": 3.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060133",
+    "name": "Bùi Thị Khánh Ly",
+    "lit": 7.25,
+    "eng": 3,
+    "math": 2.5,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060152",
+    "name": "Nguyễn Hà Thảo Nguyên",
+    "lit": 6.5,
+    "eng": 2.5,
+    "math": 3.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060158",
+    "name": "Bùi Thị Thu Phương",
+    "lit": 5,
+    "eng": 5,
+    "math": 2.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060174",
+    "name": "Bùi Thị Phương Thảo",
+    "lit": 7,
+    "eng": 3,
+    "math": 2.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060236",
+    "name": "Lý Thị Nguyệt Ánh",
+    "lit": 5.25,
+    "eng": 4.75,
+    "math": 2.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060247",
+    "name": "Đặng Minh Duy",
+    "lit": 6.25,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060310",
+    "name": "Phùng Thị Quỳnh Nga",
+    "lit": 5.5,
+    "eng": 3,
+    "math": 4.25,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060319",
+    "name": "Bùi Hoài Nhi",
+    "lit": 6.75,
+    "eng": 4.25,
+    "math": 1.75,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060328",
+    "name": "Bùi Thị Quyên",
+    "lit": 6.25,
+    "eng": 3.5,
+    "math": 3,
+    "total": 12.75,
+    "rank": 183
+  },
+  {
+    "sbd": "2060059",
+    "name": "Bùi Thị Mai Ánh",
+    "lit": 5.25,
+    "eng": 3.5,
+    "math": 3.75,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060109",
+    "name": "Phạm Phương Huyền",
+    "lit": 6,
+    "eng": 2.5,
+    "math": 4,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060148",
+    "name": "Bùi Thị Hằng Nga",
+    "lit": 6,
+    "eng": 4,
+    "math": 2.5,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060149",
+    "name": "Bùi Thúy Nga",
+    "lit": 5.25,
+    "eng": 4.25,
+    "math": 3,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060226",
+    "name": "Bùi Thị Bảo Yến",
+    "lit": 4.5,
+    "eng": 3.75,
+    "math": 4.25,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060241",
+    "name": "Nguyễn Văn Bính",
+    "lit": 7,
+    "eng": 4,
+    "math": 1.5,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060290",
+    "name": "Bùi Bảo Lâm",
+    "lit": 6,
+    "eng": 3,
+    "math": 3.5,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060293",
+    "name": "Nguyễn Văn Linh",
+    "lit": 6,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060331",
+    "name": "Bùi Tuấn Sang",
+    "lit": 4,
+    "eng": 4.5,
+    "math": 4,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060351",
+    "name": "Lý Thị Trang",
+    "lit": 5.5,
+    "eng": 4,
+    "math": 3,
+    "total": 12.5,
+    "rank": 194
+  },
+  {
+    "sbd": "2060058",
+    "name": "Phùng Phương Anh",
+    "lit": 5,
+    "eng": 2.5,
+    "math": 4.75,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060119",
+    "name": "Bùi Thị Khuyên",
+    "lit": 6.75,
+    "eng": 2.5,
+    "math": 3,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060121",
+    "name": "Nguyễn Khánh Liên",
+    "lit": 5,
+    "eng": 2.75,
+    "math": 4.5,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060151",
+    "name": "Bùi Thị Bích Ngọc",
+    "lit": 7.25,
+    "eng": 2.25,
+    "math": 2.75,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060156",
+    "name": "Bùi Thị Bích Phương",
+    "lit": 4.75,
+    "eng": 3,
+    "math": 4.5,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060196",
+    "name": "Quách Bảo Trâm",
+    "lit": 6.25,
+    "eng": 2.75,
+    "math": 3.25,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060320",
+    "name": "Hoàng Jun Ny",
+    "lit": 5,
+    "eng": 4.5,
+    "math": 2.75,
+    "total": 12.25,
+    "rank": 204
+  },
+  {
+    "sbd": "2060145",
+    "name": "Bùi Thị An Na",
+    "lit": 5.5,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 12,
+    "rank": 211
+  },
+  {
+    "sbd": "2060179",
+    "name": "Bùi Văn Nhất Thắng",
+    "lit": 6.75,
+    "eng": 2.5,
+    "math": 2.75,
+    "total": 12,
+    "rank": 211
+  },
+  {
+    "sbd": "2060223",
+    "name": "Bùi Thị Hạ Vy",
+    "lit": 6,
+    "eng": 3.25,
+    "math": 2.75,
+    "total": 12,
+    "rank": 211
+  },
+  {
+    "sbd": "2060350",
+    "name": "Bùi Bảo Trang",
+    "lit": 6.5,
+    "eng": 2.25,
+    "math": 3.25,
+    "total": 12,
+    "rank": 211
+  },
+  {
+    "sbd": "2060028",
+    "name": "Đỗ Yến Nhi",
+    "lit": 4.25,
+    "eng": 2.75,
+    "math": 4.75,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060086",
+    "name": "Tạ Văn Đạt",
+    "lit": 3.25,
+    "eng": 4,
+    "math": 4.5,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060099",
+    "name": "Bùi Thanh Hiền",
+    "lit": 5,
+    "eng": 4.25,
+    "math": 2.5,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060154",
+    "name": "Bùi Yến Nhi",
+    "lit": 4.25,
+    "eng": 2.75,
+    "math": 4.75,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060171",
+    "name": "Bùi Ngọc Thanh",
+    "lit": 6.75,
+    "eng": 2.5,
+    "math": 2.5,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060284",
+    "name": "Bùi Mạnh Khôi",
+    "lit": 3.5,
+    "eng": 5.5,
+    "math": 2.75,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060318",
+    "name": "Vũ Thiện Nhân",
+    "lit": 6.5,
+    "eng": 2,
+    "math": 3.25,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060343",
+    "name": "Bùi Thị Thanh Thúy",
+    "lit": 7.75,
+    "eng": 2.75,
+    "math": 1.25,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060353",
+    "name": "Cao Phương Trinh",
+    "lit": 4.75,
+    "eng": 3.25,
+    "math": 3.75,
+    "total": 11.75,
+    "rank": 215
+  },
+  {
+    "sbd": "2060052",
+    "name": "Bùi Nhật Anh",
+    "lit": 6,
+    "eng": 2.75,
+    "math": 2.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060079",
+    "name": "Nguyễn Đình Duy",
+    "lit": 4,
+    "eng": 2,
+    "math": 5.5,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060087",
+    "name": "Bùi Đức Giang",
+    "lit": 4,
+    "eng": 3.75,
+    "math": 3.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060146",
+    "name": "Bùi Thị Ngọc Na",
+    "lit": 5.75,
+    "eng": 3,
+    "math": 2.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060182",
+    "name": "Bùi Thanh Thùy",
+    "lit": 5.75,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060211",
+    "name": "Vũ Việt Tùng",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 4.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060257",
+    "name": "Bùi Đức Giao",
+    "lit": 6,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060271",
+    "name": "Bùi Thanh Huyền",
+    "lit": 4.5,
+    "eng": 4.25,
+    "math": 2.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060281",
+    "name": "Bùi Hải Khoa",
+    "lit": 3.75,
+    "eng": 4.75,
+    "math": 3,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060323",
+    "name": "Nguyễn Nam Phong",
+    "lit": 4,
+    "eng": 3.75,
+    "math": 3.75,
+    "total": 11.5,
+    "rank": 224
+  },
+  {
+    "sbd": "2060118",
+    "name": "Bùi Anh Khoa",
+    "lit": 4,
+    "eng": 4,
+    "math": 3.25,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060184",
+    "name": "Bùi Thị Ngọc Thùy",
+    "lit": 5.5,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060195",
+    "name": "Bùi Ngọc Trâm",
+    "lit": 5.75,
+    "eng": 2.25,
+    "math": 3.25,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060235",
+    "name": "Bùi Thị Phương Ánh",
+    "lit": 4.75,
+    "eng": 4.25,
+    "math": 2.25,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060309",
+    "name": "Nguyễn Bảo Nam",
+    "lit": 4.25,
+    "eng": 3.5,
+    "math": 3.5,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060368",
+    "name": "Nguyễn Tường Vy",
+    "lit": 5.5,
+    "eng": 1.75,
+    "math": 4,
+    "total": 11.25,
+    "rank": 234
+  },
+  {
+    "sbd": "2060111",
+    "name": "Bùi Hồng Linh Hương",
+    "lit": 7,
+    "eng": 2.25,
+    "math": 1.75,
+    "total": 11,
+    "rank": 240
+  },
+  {
+    "sbd": "2060234",
+    "name": "Bùi Thị Ngọc Ánh",
+    "lit": 5.25,
+    "eng": 2.5,
+    "math": 3.25,
+    "total": 11,
+    "rank": 240
+  },
+  {
+    "sbd": "2060259",
+    "name": "Nguyễn Hồng Hạnh",
+    "lit": 5.75,
+    "eng": 2.5,
+    "math": 2.75,
+    "total": 11,
+    "rank": 240
+  },
+  {
+    "sbd": "2060272",
+    "name": "Bùi Tuấn Hùng",
+    "lit": 4.5,
+    "eng": 3.75,
+    "math": 2.75,
+    "total": 11,
+    "rank": 240
+  },
+  {
+    "sbd": "2060185",
+    "name": "Bùi Thị Mai Thúy",
+    "lit": 5.5,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 10.75,
+    "rank": 244
+  },
+  {
+    "sbd": "2060312",
+    "name": "Bùi Thị Bảo Ngọc",
+    "lit": 4.75,
+    "eng": 4,
+    "math": 2,
+    "total": 10.75,
+    "rank": 244
+  },
+  {
+    "sbd": "2060349",
+    "name": "Bùi Khánh Toàn",
+    "lit": 4.25,
+    "eng": 4.75,
+    "math": 1.75,
+    "total": 10.75,
+    "rank": 244
+  },
+  {
+    "sbd": "2060134",
+    "name": "Nguyễn Khánh Ly",
+    "lit": 3.5,
+    "eng": 3,
+    "math": 4,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060162",
+    "name": "Bùi Thị Minh Phượng",
+    "lit": 4.75,
+    "eng": 2.75,
+    "math": 3,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060173",
+    "name": "Bùi Phương Thảo",
+    "lit": 4,
+    "eng": 3.25,
+    "math": 3.25,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060246",
+    "name": "Nguyễn Thị Hiền Diệu",
+    "lit": 7,
+    "eng": 2.5,
+    "math": 1,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060321",
+    "name": "Bùi Minh Phong",
+    "lit": 4.5,
+    "eng": 4,
+    "math": 2,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060340",
+    "name": "Bùi Đức Thắng",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 10.5,
+    "rank": 247
+  },
+  {
+    "sbd": "2060107",
+    "name": "Bùi Khánh Huyền",
+    "lit": 4.75,
+    "eng": 2.75,
+    "math": 2.75,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060199",
+    "name": "Bùi Thanh Trúc",
+    "lit": 5,
+    "eng": 3.75,
+    "math": 1.5,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060230",
+    "name": "Nguyễn Phương Anh",
+    "lit": 4.75,
+    "eng": 2.75,
+    "math": 2.75,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060262",
+    "name": "Trần Mai Hoa",
+    "lit": 6,
+    "eng": 2.25,
+    "math": 2,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060303",
+    "name": "Tạ Thị Trà My",
+    "lit": 4,
+    "eng": 3,
+    "math": 3.25,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060359",
+    "name": "Bùi Minh Tuấn",
+    "lit": 3.25,
+    "eng": 3,
+    "math": 4,
+    "total": 10.25,
+    "rank": 253
+  },
+  {
+    "sbd": "2060237",
+    "name": "Bùi Chí Bảo",
+    "lit": 7,
+    "eng": 1.25,
+    "math": 1.75,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060251",
+    "name": "Nguyễn Duy Dương",
+    "lit": 4.25,
+    "eng": 2.25,
+    "math": 3.5,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060260",
+    "name": "Phùng Thị Thúy Hiền",
+    "lit": 5.25,
+    "eng": 1.25,
+    "math": 3.5,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060279",
+    "name": "Phạm Thị Mai Hương",
+    "lit": 3.5,
+    "eng": 2.75,
+    "math": 3.75,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060280",
+    "name": "Phạm Quốc Khánh",
+    "lit": 5,
+    "eng": 2.75,
+    "math": 2.25,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060289",
+    "name": "Triệu Lạc Kỳ",
+    "lit": 4.5,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060295",
+    "name": "Bùi Nhật Long",
+    "lit": 5,
+    "eng": 2.75,
+    "math": 2.25,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060299",
+    "name": "Bùi Hiền Lương",
+    "lit": 3.75,
+    "eng": 3.5,
+    "math": 2.75,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060364",
+    "name": "Quách Thị Kiều Vi",
+    "lit": 4.75,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 10,
+    "rank": 259
+  },
+  {
+    "sbd": "2060063",
+    "name": "Nguyễn Trần Gia Bảo",
+    "lit": 5.25,
+    "eng": 2.5,
+    "math": 2,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060066",
+    "name": "Vũ Hà Hải Băng",
+    "lit": 4.75,
+    "eng": 1.75,
+    "math": 3.25,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060215",
+    "name": "Bùi Thị Bảo Uyên",
+    "lit": 5,
+    "eng": 3,
+    "math": 1.75,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060245",
+    "name": "Triệu Ngọc Diệp",
+    "lit": 5.25,
+    "eng": 3,
+    "math": 1.5,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060264",
+    "name": "Bùi Duy Hoàng",
+    "lit": 4.75,
+    "eng": 3.25,
+    "math": 1.75,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060360",
+    "name": "Bùi Minh Tuấn",
+    "lit": 4,
+    "eng": 4.25,
+    "math": 1.5,
+    "total": 9.75,
+    "rank": 268
+  },
+  {
+    "sbd": "2060050",
+    "name": "Bùi Hà Anh",
+    "lit": 4.5,
+    "eng": 3,
+    "math": 2,
+    "total": 9.5,
+    "rank": 274
+  },
+  {
+    "sbd": "2060124",
+    "name": "Bùi Phương Linh",
+    "lit": 5,
+    "eng": 2.75,
+    "math": 1.75,
+    "total": 9.5,
+    "rank": 274
+  },
+  {
+    "sbd": "2060250",
+    "name": "Nguyễn An Dương",
+    "lit": 4,
+    "eng": 2,
+    "math": 3.5,
+    "total": 9.5,
+    "rank": 274
+  },
+  {
+    "sbd": "2060342",
+    "name": "Nguyễn Khánh Thi",
+    "lit": 3.75,
+    "eng": 2.5,
+    "math": 3.25,
+    "total": 9.5,
+    "rank": 274
+  },
+  {
+    "sbd": "2060345",
+    "name": "Phạm Minh Thúy",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 2.75,
+    "total": 9.5,
+    "rank": 274
+  },
+  {
+    "sbd": "2060097",
+    "name": "Bùi Thị Thu Hằng",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060101",
+    "name": "Bùi Thu Hiền",
+    "lit": 3.75,
+    "eng": 3,
+    "math": 2.5,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060178",
+    "name": "Bùi Mạnh Thắng",
+    "lit": 5,
+    "eng": 2.75,
+    "math": 1.5,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060190",
+    "name": "Vũ Thủy Tiên",
+    "lit": 4.25,
+    "eng": 2.5,
+    "math": 2.5,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060275",
+    "name": "Bùi Mạnh Hưng",
+    "lit": 4.5,
+    "eng": 1.75,
+    "math": 3,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060369",
+    "name": "Bùi Hoàng Tùng",
+    "lit": 6.5,
+    "eng": 0,
+    "math": 2.75,
+    "total": 9.25,
+    "rank": 279
+  },
+  {
+    "sbd": "2060130",
+    "name": "Trần Bảo Linh",
+    "lit": 3.5,
+    "eng": 3.75,
+    "math": 1.75,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060135",
+    "name": "Bàn Thị Mai",
+    "lit": 6,
+    "eng": 2.25,
+    "math": 0.75,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060238",
+    "name": "Bùi Gia Bảo",
+    "lit": 3,
+    "eng": 4.25,
+    "math": 1.75,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060240",
+    "name": "Dương Hồ An Bình",
+    "lit": 6.25,
+    "eng": 1.25,
+    "math": 1.5,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060258",
+    "name": "Bùi Ngọc Hà",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 2.25,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060270",
+    "name": "Trần Gia Huy",
+    "lit": 4.75,
+    "eng": 3,
+    "math": 1.25,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060301",
+    "name": "Bùi Văn Mạnh",
+    "lit": 4.25,
+    "eng": 2.75,
+    "math": 2,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060347",
+    "name": "Bùi Mạnh Tiến",
+    "lit": 4,
+    "eng": 2.25,
+    "math": 2.75,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060357",
+    "name": "Nguyễn Phi Trường",
+    "lit": 3,
+    "eng": 4,
+    "math": 2,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060361",
+    "name": "Nguyễn Anh Tuấn",
+    "lit": 4.75,
+    "eng": 2.75,
+    "math": 1.5,
+    "total": 9,
+    "rank": 285
+  },
+  {
+    "sbd": "2060141",
+    "name": "Bùi Thúy Minh",
+    "lit": 3,
+    "eng": 2.25,
+    "math": 3.5,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060291",
+    "name": "Dương Tùng Lâm",
+    "lit": 3,
+    "eng": 3.25,
+    "math": 2.5,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060314",
+    "name": "Phùng Văn Nguyên",
+    "lit": 4.75,
+    "eng": 2,
+    "math": 2,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060327",
+    "name": "Đoàn Minh Quân",
+    "lit": 4,
+    "eng": 3,
+    "math": 1.75,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060332",
+    "name": "Bùi Đinh Công Sơn",
+    "lit": 1.75,
+    "eng": 4.25,
+    "math": 2.75,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060334",
+    "name": "Bùi Đức Tài",
+    "lit": 4.25,
+    "eng": 3.25,
+    "math": 1.25,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060356",
+    "name": "Bùi Xuân Trường",
+    "lit": 2.75,
+    "eng": 4.5,
+    "math": 1.5,
+    "total": 8.75,
+    "rank": 295
+  },
+  {
+    "sbd": "2060267",
+    "name": "Bùi Gia Huy",
+    "lit": 3,
+    "eng": 4,
+    "math": 1.5,
+    "total": 8.5,
+    "rank": 302
+  },
+  {
+    "sbd": "2060313",
+    "name": "Lương Bích Ngọc",
+    "lit": 4,
+    "eng": 1.5,
+    "math": 3,
+    "total": 8.5,
+    "rank": 302
+  },
+  {
+    "sbd": "2060325",
+    "name": "Đặng Phong Phú",
+    "lit": 3,
+    "eng": 3,
+    "math": 2.5,
+    "total": 8.5,
+    "rank": 302
+  },
+  {
+    "sbd": "2060335",
+    "name": "Triệu Duy Tân",
+    "lit": 4,
+    "eng": 2,
+    "math": 2.5,
+    "total": 8.5,
+    "rank": 302
+  },
+  {
+    "sbd": "2060362",
+    "name": "Đoàn Thanh Tùng",
+    "lit": 3.5,
+    "eng": 2.75,
+    "math": 2.25,
+    "total": 8.5,
+    "rank": 302
+  },
+  {
+    "sbd": "2060180",
+    "name": "Bùi Đức Thiện",
+    "lit": 3,
+    "eng": 1.25,
+    "math": 4,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060231",
+    "name": "Nguyễn Tùng Anh",
+    "lit": 3,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060232",
+    "name": "Trần Đức Anh",
+    "lit": 5.5,
+    "eng": 1.25,
+    "math": 1.5,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060243",
+    "name": "Bùi Bằng Cường",
+    "lit": 4,
+    "eng": 2.75,
+    "math": 1.5,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060256",
+    "name": "Bùi Minh Đức",
+    "lit": 3.25,
+    "eng": 3.75,
+    "math": 1.25,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060263",
+    "name": "Bùi Thu Hoài",
+    "lit": 3.5,
+    "eng": 2.5,
+    "math": 2.25,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060277",
+    "name": "Bùi Thị Quỳnh Hương",
+    "lit": 2.75,
+    "eng": 3.25,
+    "math": 2.25,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060302",
+    "name": "Triệu Văn Mạnh",
+    "lit": 3.25,
+    "eng": 3.5,
+    "math": 1.5,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060307",
+    "name": "Lê Sơn Nam",
+    "lit": 3.75,
+    "eng": 2.5,
+    "math": 2,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060315",
+    "name": "Bùi Thị Ánh Nguyệt",
+    "lit": 3.5,
+    "eng": 3.75,
+    "math": 1,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060339",
+    "name": "Bùi Đức Thạnh",
+    "lit": 4,
+    "eng": 2.5,
+    "math": 1.75,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060346",
+    "name": "Bùi Trung Thức",
+    "lit": 4.5,
+    "eng": 2.75,
+    "math": 1,
+    "total": 8.25,
+    "rank": 307
+  },
+  {
+    "sbd": "2060108",
+    "name": "Bùi Thị Thanh Huyền",
+    "lit": 4.5,
+    "eng": 2.5,
+    "math": 1,
+    "total": 8,
+    "rank": 319
+  },
+  {
+    "sbd": "2060175",
+    "name": "Phan Ngọc Thảo",
+    "lit": 4.5,
+    "eng": 2,
+    "math": 1.5,
+    "total": 8,
+    "rank": 319
+  },
+  {
+    "sbd": "2060249",
+    "name": "Trần Trung Dũng",
+    "lit": 3.75,
+    "eng": 2,
+    "math": 2.25,
+    "total": 8,
+    "rank": 319
+  },
+  {
+    "sbd": "2060274",
+    "name": "Bùi Duy Hưng",
+    "lit": 2,
+    "eng": 4,
+    "math": 2,
+    "total": 8,
+    "rank": 319
+  },
+  {
+    "sbd": "2060294",
+    "name": "Bùi Anh Long",
+    "lit": 3.25,
+    "eng": 3.25,
+    "math": 1.5,
+    "total": 8,
+    "rank": 319
+  },
+  {
+    "sbd": "2060292",
+    "name": "Bùi Thùy Linh",
+    "lit": 2.5,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 7.75,
+    "rank": 324
+  },
+  {
+    "sbd": "2060298",
+    "name": "Đỗ Công Luận",
+    "lit": 3.75,
+    "eng": 3,
+    "math": 1,
+    "total": 7.75,
+    "rank": 324
+  },
+  {
+    "sbd": "2060305",
+    "name": "Bùi An Nam",
+    "lit": 2,
+    "eng": 3,
+    "math": 2.75,
+    "total": 7.75,
+    "rank": 324
+  },
+  {
+    "sbd": "2060283",
+    "name": "Bùi Đăng Khôi",
+    "lit": 2,
+    "eng": 3,
+    "math": 2.5,
+    "total": 7.5,
+    "rank": 327
+  },
+  {
+    "sbd": "2060287",
+    "name": "Bùi Trung Kiên",
+    "lit": 2.5,
+    "eng": 2.5,
+    "math": 2.5,
+    "total": 7.5,
+    "rank": 327
+  },
+  {
+    "sbd": "2060326",
+    "name": "Dương Thị Hoài Phương",
+    "lit": 2.25,
+    "eng": 2.75,
+    "math": 2.5,
+    "total": 7.5,
+    "rank": 327
+  },
+  {
+    "sbd": "2060333",
+    "name": "Bùi Đức Tài",
+    "lit": 2.25,
+    "eng": 4.25,
+    "math": 1,
+    "total": 7.5,
+    "rank": 327
+  },
+  {
+    "sbd": "2060365",
+    "name": "Bùi Quốc Việt",
+    "lit": 3.75,
+    "eng": 2,
+    "math": 1.75,
+    "total": 7.5,
+    "rank": 327
+  },
+  {
+    "sbd": "2060189",
+    "name": "Bùi Thủy Tiên",
+    "lit": 2.75,
+    "eng": 2.25,
+    "math": 2.25,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060229",
+    "name": "Nguyễn Nhật Anh",
+    "lit": 3.25,
+    "eng": 2.5,
+    "math": 1.5,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060239",
+    "name": "Trần Gia Bảo",
+    "lit": 3.5,
+    "eng": 2.5,
+    "math": 1.25,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060265",
+    "name": "Bùi Huy Hoàng",
+    "lit": 2,
+    "eng": 4.5,
+    "math": 0.75,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060268",
+    "name": "Nguyễn Gia Huy",
+    "lit": 4,
+    "eng": 1.75,
+    "math": 1.5,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060300",
+    "name": "Bùi Đức Lượng",
+    "lit": 4.5,
+    "eng": 2,
+    "math": 0.75,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060355",
+    "name": "Bùi Mạnh Trường",
+    "lit": 2.5,
+    "eng": 3,
+    "math": 1.75,
+    "total": 7.25,
+    "rank": 332
+  },
+  {
+    "sbd": "2060306",
+    "name": "Bùi Bảo Nam",
+    "lit": 3.25,
+    "eng": 2.75,
+    "math": 1,
+    "total": 7,
+    "rank": 339
+  },
+  {
+    "sbd": "2060308",
+    "name": "Nguyễn Bảo Nam",
+    "lit": 2.5,
+    "eng": 2.5,
+    "math": 2,
+    "total": 7,
+    "rank": 339
+  },
+  {
+    "sbd": "2060330",
+    "name": "Bùi Như Quỳnh",
+    "lit": 4,
+    "eng": 1.5,
+    "math": 1.5,
+    "total": 7,
+    "rank": 339
+  },
+  {
+    "sbd": "2060286",
+    "name": "Bùi Trung Kiên",
+    "lit": 2,
+    "eng": 2,
+    "math": 2.75,
+    "total": 6.75,
+    "rank": 342
+  },
+  {
+    "sbd": "2060341",
+    "name": "Phạm Văn Thể",
+    "lit": 3.5,
+    "eng": 1.25,
+    "math": 2,
+    "total": 6.75,
+    "rank": 342
+  },
+  {
+    "sbd": "2060366",
+    "name": "Bùi Ngọc Vinh",
+    "lit": 1.75,
+    "eng": 3.5,
+    "math": 1.5,
+    "total": 6.75,
+    "rank": 342
+  },
+  {
+    "sbd": "2060273",
+    "name": "Trần Việt Hùng",
+    "lit": 2.25,
+    "eng": 2,
+    "math": 2.25,
+    "total": 6.5,
+    "rank": 345
+  },
+  {
+    "sbd": "2060348",
+    "name": "Bùi Xuân Tiến",
+    "lit": 3,
+    "eng": 3,
+    "math": 0.5,
+    "total": 6.5,
+    "rank": 345
+  },
+  {
+    "sbd": "2060383",
+    "name": "Bùi Thu Phương",
+    "lit": 5.75,
+    "eng": 0,
+    "math": 0.75,
+    "total": 6.5,
+    "rank": 345
+  },
+  {
+    "sbd": "2060311",
+    "name": "Bùi Văn Nghiệp",
+    "lit": 2.5,
+    "eng": 2,
+    "math": 1.75,
+    "total": 6.25,
+    "rank": 348
+  },
+  {
+    "sbd": "2060248",
+    "name": "Bùi Hải Duyên",
+    "lit": 3,
+    "eng": 2,
+    "math": 1,
+    "total": 6,
+    "rank": 349
+  },
+  {
+    "sbd": "2060261",
+    "name": "Phan Huy Hiếu",
+    "lit": 3.5,
+    "eng": 2,
+    "math": 0.25,
+    "total": 5.75,
+    "rank": 350
+  },
+  {
+    "sbd": "2060304",
+    "name": "Bùi Thị Việt Mỹ",
+    "lit": 2,
+    "eng": 3.5,
+    "math": 0.25,
+    "total": 5.75,
+    "rank": 350
+  },
+  {
+    "sbd": "2060276",
+    "name": "Bùi Thị Mai Hương",
+    "lit": 1.5,
+    "eng": 3,
+    "math": 1,
+    "total": 5.5,
+    "rank": 352
+  },
+  {
+    "sbd": "2060329",
+    "name": "Bùi Xuân Quyền",
+    "lit": 1.5,
+    "eng": 2.75,
+    "math": 1.25,
+    "total": 5.5,
+    "rank": 352
+  },
+  {
+    "sbd": "2060269",
+    "name": "Tô Quang Huy",
+    "lit": 1.5,
+    "eng": 2.5,
+    "math": 1.25,
+    "total": 5.25,
+    "rank": 354
+  },
+  {
+    "sbd": "2060282",
+    "name": "Bùi Ngọc Khoa",
+    "lit": 1.5,
+    "eng": 2.5,
+    "math": 1.25,
+    "total": 5.25,
+    "rank": 354
+  },
+  {
+    "sbd": "2060336",
+    "name": "Bùi Hoàng Thái",
+    "lit": 1.75,
+    "eng": 2,
+    "math": 1.5,
+    "total": 5.25,
+    "rank": 354
+  },
+  {
+    "sbd": "2060378",
+    "name": "Nguyễn Bá Lâm",
+    "lit": 2.75,
+    "eng": 0,
+    "math": 2.5,
+    "total": 5.25,
+    "rank": 354
+  },
+  {
+    "sbd": "2060297",
+    "name": "Lê Lợi",
+    "lit": 2,
+    "eng": 2.5,
+    "math": 0.5,
+    "total": 5,
+    "rank": 358
+  },
+  {
+    "sbd": "2060344",
+    "name": "Bùi Thị Thanh Thúy",
+    "lit": 1,
+    "eng": 2.25,
+    "math": 1.75,
+    "total": 5,
+    "rank": 358
+  },
+  {
+    "sbd": "2060367",
+    "name": "Nguyễn Anh Vũ",
+    "lit": 2.75,
+    "eng": 2,
+    "math": 0.25,
+    "total": 5,
+    "rank": 358
+  },
+  {
+    "sbd": "2060376",
+    "name": "Bùi Tuyên Huấn",
+    "lit": 3,
+    "eng": 0,
+    "math": 2,
+    "total": 5,
+    "rank": 358
+  },
+  {
+    "sbd": "2060374",
+    "name": "Bùi Tiến Đạt",
+    "lit": 2.75,
+    "eng": 0,
+    "math": 2,
+    "total": 4.75,
+    "rank": 362
+  },
+  {
+    "sbd": "2060386",
+    "name": "Đinh Anh Tuấn",
+    "lit": 2.5,
+    "eng": 0,
+    "math": 2.25,
+    "total": 4.75,
+    "rank": 362
+  },
+  {
+    "sbd": "2060242",
+    "name": "Bùi Đức Canh",
+    "lit": 2,
+    "eng": 2,
+    "math": 0.5,
+    "total": 4.5,
+    "rank": 364
+  },
+  {
+    "sbd": "2060316",
+    "name": "Bùi Danh Nhân",
+    "lit": 2,
+    "eng": 1.5,
+    "math": 1,
+    "total": 4.5,
+    "rank": 364
+  },
+  {
+    "sbd": "2060354",
+    "name": "Nguyễn Thế Trọng",
+    "lit": 1,
+    "eng": 2.75,
+    "math": 0.75,
+    "total": 4.5,
+    "rank": 364
+  },
+  {
+    "sbd": "2060255",
+    "name": "Lâm Thành Đạt",
+    "lit": 0.75,
+    "eng": 2,
+    "math": 1.5,
+    "total": 4.25,
+    "rank": 367
+  },
+  {
+    "sbd": "2060375",
+    "name": "Bùi Văn Hiếu",
+    "lit": 2.25,
+    "eng": 0,
+    "math": 1.75,
+    "total": 4,
+    "rank": 368
+  },
+  {
+    "sbd": "2060373",
+    "name": "Nguyễn Đăng Dương",
+    "lit": 2.25,
+    "eng": 0,
+    "math": 1.5,
+    "total": 3.75,
+    "rank": 369
+  },
+  {
+    "sbd": "2060382",
+    "name": "Bùi Đức Nhất",
+    "lit": 3.25,
+    "eng": 0,
+    "math": 0.5,
+    "total": 3.75,
+    "rank": 369
+  },
+  {
+    "sbd": "2060254",
+    "name": "Bùi Văn Đạt",
+    "lit": 1.25,
+    "eng": 1.75,
+    "math": 0.5,
+    "total": 3.5,
+    "rank": 371
+  },
+  {
+    "sbd": "2060381",
+    "name": "Bùi Thúy Nga",
+    "lit": 2,
+    "eng": 0,
+    "math": 1.5,
+    "total": 3.5,
+    "rank": 371
+  },
+  {
+    "sbd": "2060372",
+    "name": "Hà Quang Dũng",
+    "lit": 2,
+    "eng": 0,
+    "math": 1.25,
+    "total": 3.25,
+    "rank": 373
+  },
+  {
+    "sbd": "2060253",
+    "name": "Bùi Trọng Đại",
+    "lit": 1.5,
+    "eng": 0,
+    "math": 1.5,
+    "total": 3,
+    "rank": 374
+  },
+  {
+    "sbd": "2060384",
+    "name": "Bùi Văn Thắng",
+    "lit": 1.75,
+    "eng": 0,
+    "math": 1.25,
+    "total": 3,
+    "rank": 374
+  },
+  {
+    "sbd": "2060371",
+    "name": "Bùi Ngọc Ánh",
+    "lit": 2,
+    "eng": 0,
+    "math": 0.75,
+    "total": 2.75,
+    "rank": 376
+  }
+]

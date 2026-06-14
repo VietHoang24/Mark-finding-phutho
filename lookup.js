@@ -75,6 +75,13 @@ async function loadSchoolData(schoolCode) {
       }
     });
     
+    // Update dropdown select state
+    const schoolSelect = document.getElementById('schoolSelect');
+    if (schoolSelect && schoolSelect.value !== schoolCode) {
+      schoolSelect.value = schoolCode;
+    }
+
+    
   } catch (err) {
     console.error(`Lỗi tải tệp data_${schoolCode}.json:`, err);
     if (elements.leaderboardBody) {
@@ -94,8 +101,18 @@ document.addEventListener('DOMContentLoaded', async () => {
   elements.searchInput.focus();
 });
 
-// Setup event listeners for school buttons
+// Setup event listeners for school buttons or dropdown select
 function setupSchoolSelector() {
+  const schoolSelect = document.getElementById('schoolSelect');
+  if (schoolSelect) {
+    schoolSelect.addEventListener('change', () => {
+      const schoolCode = schoolSelect.value;
+      if (schoolCode !== currentSchool) {
+        loadSchoolData(schoolCode);
+      }
+    });
+  }
+
   document.querySelectorAll('.school-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const schoolCode = btn.getAttribute('data-school');

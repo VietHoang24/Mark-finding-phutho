@@ -42,6 +42,7 @@ const elements = {
 };
 
 let currentSchool = '102';
+let _lastSelectedSbd = null;
 
 async function loadSchoolData(schoolCode) {
   try {
@@ -329,8 +330,12 @@ function showSuggestions(list) {
       elements.searchInput.value = student.name;
       elements.suggestList.style.display = 'none';
       renderStudentResultCard(student);
-      highlightAndScrollToLeaderboardRow(student.sbd);
+      // Scroll to the result card smoothly
+      setTimeout(() => {
+        document.getElementById('studentResultCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 80);
     });
+
     elements.suggestList.appendChild(li);
   });
   
@@ -352,7 +357,51 @@ function filterLeaderboardTable(cleanQuery) {
   });
 }
 
-// Highlight a row in the leaderboard and scroll it into view smoothly
+// Highlight a row in the leaderboard — does NOT scroll the page, only highlights
+function highlightLeaderboardRow(sbd) {
+  const rows = elements.leaderboardBody.querySelectorAll('tr');
+  rows.forEach(row => {
+    row.style.background = '';
+    row.style.fontWeight = '';
+    row.style.borderLeft = '';
+    row.style.display = '';
+    if (row.getAttribute('data-sbd') === sbd) {
+      row.style.background = 'rgba(99, 102, 241, 0.2)';
+      row.style.fontWeight = '600';
+      row.style.borderLeft = '4px solid #6366f1';
+    }
+  });
+}
+
+// Scroll to and highlight leaderboard row — called by the button inside the result card
+function scrollToLeaderboardRow() {
+  if (!_lastSelectedSbd) return;
+  const sbd = _lastSelectedSbd;
+
+  // Make sure leaderboard rows are all visible (no filter active)
+  const rows = elements.leaderboardBody.querySelectorAll('tr');
+  let targetRow = null;
+  rows.forEach(row => {
+    row.style.background = '';
+    row.style.fontWeight = '';
+    row.style.borderLeft = '';
+    row.style.display = '';
+    if (row.getAttribute('data-sbd') === sbd) {
+      targetRow = row;
+    }
+  });
+
+  if (targetRow) {
+    targetRow.style.background = 'rgba(99, 102, 241, 0.2)';
+    targetRow.style.fontWeight = '600';
+    targetRow.style.borderLeft = '4px solid #6366f1';
+    setTimeout(() => {
+      targetRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 50);
+  }
+}
+
+// Highlight a row in the leaderboard and scroll it into view smoothly (legacy)
 function highlightAndScrollToLeaderboardRow(sbd) {
   const rows = elements.leaderboardBody.querySelectorAll('tr');
   let targetRow = null;
@@ -394,6 +443,7 @@ function clearLeaderboardFiltersAndHighlights() {
 
 // Render candidate profile card and analysis
 function renderStudentResultCard(student) {
+  _lastSelectedSbd = student.sbd;
   elements.globalStats.style.display = 'none';
   elements.resultCard.className = 'card glass-card result-score-card';
   
@@ -447,6 +497,9 @@ function renderStudentResultCard(student) {
         <span>Cách điểm Thủ khoa (${topStudent.name}) đúng <strong>${diffMax} điểm</strong>.</span>
       </div>
     `}
+    <button class="btn-view-in-list" onclick="scrollToLeaderboardRow()">
+      <i class="fa-solid fa-table-list"></i> Xem vị trí trong bảng xếp hạng
+    </button>
   `;
   
   elements.resultCard.classList.remove('hide');

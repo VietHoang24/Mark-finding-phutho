@@ -50,9 +50,12 @@ async function loadSchoolData(schoolCode) {
     
     // Reset search input and details card
     elements.searchInput.value = '';
+    elements.searchInput.style.borderColor = '';
     elements.suggestList.style.display = 'none';
     elements.resultCard.classList.add('hide');
     elements.globalStats.style.display = 'block';
+    const warn = document.getElementById('sbdMismatchWarning');
+    if (warn) warn.style.display = 'none';
     
     if (elements.leaderboardBody) {
       elements.leaderboardBody.innerHTML = '<tr><td colspan="7" class="text-center text-muted">Đang tải dữ liệu điểm thi trường...</td></tr>';
@@ -265,20 +268,49 @@ function renderFullLeaderboard() {
 
 // Setup fuzzy lookup and suggestion drop
 function setupSearch() {
+  const sbdWarning = document.getElementById('sbdMismatchWarning');
+
+  function clearWarning() {
+    if (sbdWarning) sbdWarning.style.display = 'none';
+    elements.searchInput.style.borderColor = '';
+    elements.searchInput.style.boxShadow = '';
+  }
+
+  function showWarning(msg) {
+    if (sbdWarning) {
+      sbdWarning.textContent = msg;
+      sbdWarning.style.display = 'flex';
+    }
+    elements.searchInput.style.borderColor = 'rgba(239, 68, 68, 0.6)';
+  }
+
   elements.searchInput.addEventListener('input', () => {
     const rawQuery = elements.searchInput.value.trim();
     const cleanQuery = removeAccents(rawQuery.toLowerCase());
-    
+
     if (!cleanQuery) {
+      clearWarning();
       elements.suggestList.style.display = 'none';
       elements.resultCard.classList.add('hide');
       elements.globalStats.style.display = 'block';
-      
-      // Clear leaderboard row highlights & search filters
       clearLeaderboardFiltersAndHighlights();
       return;
     }
-    
+
+    // SBD validation: if user types digits, check prefix matches selected school
+    const isNumericQuery = /^\d+$/.test(rawQuery);
+    if (isNumericQuery && rawQuery.length >= 3) {
+      if (!rawQuery.startsWith(currentSchool)) {
+        showWarning(`⚠ Số báo danh phải bắt đầu bằng ${currentSchool} (trường đang chọn). Ví dụ: ${currentSchool}0001`);
+        elements.suggestList.style.display = 'none';
+        elements.resultCard.classList.add('hide');
+        elements.globalStats.style.display = 'block';
+        return;
+      }
+    }
+
+    clearWarning();
+
     // Fuzzy matching filter
     const matches = EXAM_DATA.filter(student => {
       const matchSbd = student.sbd.startsWith(cleanQuery);
@@ -286,11 +318,11 @@ function setupSearch() {
       const matchName = cleanName.includes(cleanQuery);
       return matchSbd || matchName;
     });
-    
+
     showSuggestions(matches.slice(0, 6));
     filterLeaderboardTable(cleanQuery);
   });
-  
+
   // Keyboard enter submits first suggestion
   elements.searchInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
@@ -300,7 +332,7 @@ function setupSearch() {
       }
     }
   });
-  
+
   // Click outside suggestions lists hides them
   document.addEventListener('click', (e) => {
     if (e.target !== elements.searchInput && e.target !== elements.suggestList) {

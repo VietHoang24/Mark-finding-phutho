@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cổng Tra Cứu & Phân Tích Điểm Thi Lớp 10 Phú Thọ</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="index.css">
+  <style>
+    /* Custom adjustments for lookup portal */
+    .lookup-container {
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    
+    .search-section {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    
+    .search-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      background: linear-gradient(135deg, #fff 0%, #cbd5e1 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+    
+    .search-subtitle {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 24px;
+    }
+    
+    .search-bar-huge {
+      position: relative;
+      display: flex;
+      align-items: center;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+      border-radius: 12px;
+      overflow: hidden;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      transition: border-color 0.3s, box-shadow 0.3s;
+    }
+    
+    .search-bar-huge:focus-within {
+      border-color: var(--primary-color);
+      box-shadow: 0 10px 25px -5px var(--primary-glow);
+    }
+    
+    .search-bar-huge i {
+      position: absolute;
+      left: 20px;
+      color: var(--text-secondary);
+      font-size: 18px;
+    }
+    
+    .search-bar-huge input {
+      width: 100%;
+      padding: 18px 20px 18px 56px;
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 16px;
+      font-family: inherit;
+      outline: none;
+    }
+    
+    /* Stats Grid Custom for Portal */
+    .portal-stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    
+    @media (max-width: 550px) {
+      .portal-stats-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    /* Result Card Premium Styles */
+    .result-score-card {
+      margin-bottom: 24px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .gold-border { border-color: rgba(251, 191, 36, 0.3) !important; box-shadow: 0 4px 24px rgba(251, 191, 36, 0.1); }
+    .silver-border { border-color: rgba(148, 163, 184, 0.3) !important; box-shadow: 0 4px 24px rgba(148, 163, 184, 0.1); }
+    .bronze-border { border-color: rgba(180, 83, 9, 0.3) !important; box-shadow: 0 4px 24px rgba(180, 83, 9, 0.1); }
+    
+    .result-subject-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin: 20px 0;
+    }
+    
+    .subject-score-card {
+      background: rgba(0, 0, 0, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+      padding: 14px;
+      text-align: center;
+    }
+    
+    .subject-score-card .score {
+      font-family: 'Outfit', sans-serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+    
+    .subject-score-card .label {
+      font-size: 12px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      margin-top: 4px;
+      font-weight: 500;
+    }
+    
+    .analytics-section {
+      background: rgba(255, 255, 255, 0.02);
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      margin: 20px -24px -24px -24px;
+      padding: 20px 24px;
+    }
+    
+    .analytics-title {
+      font-size: 13px;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      letter-spacing: 0.5px;
+    }
+    
+    .analytics-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 13px;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+    
+    .analytics-item i {
+      color: var(--success-color);
+      font-size: 14px;
+    }
+    
+    /* Score Distribution Visual Chart */
+    .distribution-chart-container {
+      margin-top: 24px;
+    }
+    
+    .dist-bar-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 8px;
+      gap: 12px;
+    }
+    
+    .dist-label {
+      width: 80px;
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+    
+    .dist-track {
+      flex: 1;
+      height: 8px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    
+    .dist-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #3b82f6, #60a5fa);
+      border-radius: 4px;
+    }
+    
+    .dist-count {
+      width: 45px;
+      font-size: 12px;
+      color: var(--text-primary);
+      text-align: right;
+    }
+    
+    /* Auto suggest dropdown */
+    .suggest-list {
+      background: var(--panel-bg);
+      border: 1px solid var(--panel-border);
+      border-radius: 8px;
+      box-shadow: var(--card-shadow);
+      max-height: 200px;
+      overflow-y: auto;
+      margin-top: 8px;
+      list-style: none;
+      padding: 0;
+      display: none;
+      position: absolute;
+      width: 100%;
+      z-index: 100;
+      backdrop-filter: blur(16px);
+    }
+    
+    .suggest-item {
+      padding: 12px 16px;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+      font-size: 14px;
+      transition: background 0.2s;
+      display: flex;
+      justify-content: space-between;
+    }
+    
+    .suggest-item:hover {
+      background: rgba(255, 255, 255, 0.05);
+    }
+    
+    .suggest-item .sbd-badge {
+      font-family: monospace;
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div class="glow-bg"></div>
+  
+  <div class="lookup-container">
+    <!-- Search Section -->
+    <section class="search-section">
+      <h1 class="search-title">TRA CỨU ĐIỂM THI LỚP 10</h1>
+      <p class="search-subtitle">Dữ liệu chính thức từ dải SBD 1020001 - 1020577 (Tỉnh Phú Thọ)</p>
+      
+      <div style="position: relative;">
+        <div class="search-bar-huge">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" id="studentSearchInput" placeholder="Nhập Số báo danh hoặc Họ tên thí sinh..." autocomplete="off">
+        </div>
+        <ul class="suggest-list" id="suggestList"></ul>
+      </div>
+    </section>
+
+    <!-- Student Detail Result Card (Hidden by default) -->
+    <div class="card glass-card result-score-card hide" id="studentResultCard">
+      <div class="rank-card-body" style="border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 16px;">
+        <div class="rank-student-info">
+          <h3 id="resName">Nguyễn Văn A</h3>
+          <p>Số báo danh: <strong id="resSbd">1020335</strong></p>
+        </div>
+        <div class="rank-badge-wrapper">
+          <div class="total-score-badge">
+            <span class="total-score-val" id="resTotalScore">24.50</span>
+            <span class="total-score-lbl">Tổng điểm</span>
+          </div>
+          <div class="rank-badge" style="font-size: 26px;">
+            Hạng <span id="resRank">#15</span> <span style="font-size: 13px; color: var(--text-secondary); font-weight: 500;">/ 570</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Subjects Grid -->
+      <div class="result-subject-grid">
+        <div class="subject-score-card">
+          <div class="score" id="resMath">8.75</div>
+          <div class="label">Toán</div>
+        </div>
+        <div class="subject-score-card">
+          <div class="score" id="resLit">7.50</div>
+          <div class="label">Ngữ văn</div>
+        </div>
+        <div class="subject-score-card">
+          <div class="score" id="resEng">8.25</div>
+          <div class="label">Tiếng Anh</div>
+        </div>
+      </div>
+      
+      <!-- Analytics Section -->
+      <div class="analytics-section">
+        <div class="analytics-title">Phân tích thứ hạng & điểm số</div>
+        <div id="analyticsContent">
+          <div class="analytics-item">
+            <i class="fa-solid fa-circle-check"></i>
+            <span>Bạn thuộc <strong>Top 2.63%</strong> thí sinh có điểm cao nhất kỳ thi.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Global Statistics (Show by default, hide when results are shown) -->
+    <section id="globalStatsSection">
+      <!-- Portal Stats Grid -->
+      <div class="portal-stats-grid">
+        <div class="stat-card glass-card" style="padding: 16px;">
+          <span class="stat-value text-success" id="statAvg">21.50</span>
+          <span class="stat-label">Điểm trung bình</span>
+        </div>
+        <div class="stat-card glass-card" style="padding: 16px;">
+          <span class="stat-value" id="statMax">26.00</span>
+          <span class="stat-label">Thủ khoa thi</span>
+        </div>
+        <div class="stat-card glass-card" style="padding: 16px;">
+          <span class="stat-value text-warning" id="statMedian">21.00</span>
+          <span class="stat-label">Điểm trung vị</span>
+        </div>
+      </div>
+
+      <!-- Score Distribution chart -->
+      <div class="card glass-card">
+        <div class="card-header">
+          <i class="fa-solid fa-chart-column icon"></i>
+          <h2>Phổ điểm thi cử (Thống kê số lượng)</h2>
+        </div>
+        <p class="description-text">Biểu đồ phân bố thí sinh theo các dải điểm thi tổng.</p>
+        
+        <div class="distribution-chart-container" id="distributionChart">
+          <!-- JS will populate these bars -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Full Leaderboard Card (Always Visible) -->
+    <div class="card glass-card" style="margin-top: 32px; flex-grow: 1; display: flex; flex-direction: column;">
+      <div class="card-header results-header-row" style="justify-content: space-between; display: flex; align-items: center; width: 100%;">
+        <div class="results-header-title" style="display: flex; align-items: center; gap: 10px;">
+          <i class="fa-solid fa-list-ol icon"></i>
+          <h2>Bảng xếp hạng tổng điểm (Toàn bộ thí sinh)</h2>
+          <span class="badge" id="totalStudentsCount">0 học sinh</span>
+        </div>
+      </div>
+      
+      <div class="table-container" style="max-height: 450px; overflow-y: auto; margin-top: 16px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.05); background: rgba(0, 0, 0, 0.15);">
+        <table class="data-table" id="leaderboardTable">
+          <thead>
+            <tr>
+              <th style="width: 70px; text-align: center;">Hạng</th>
+              <th style="width: 110px;">Số Báo Danh</th>
+              <th>Họ Tên</th>
+              <th style="width: 80px; text-align: center;">Toán</th>
+              <th style="width: 80px; text-align: center;">Văn</th>
+              <th style="width: 80px; text-align: center;">Anh</th>
+              <th style="width: 100px; text-align: center;">Tổng điểm</th>
+            </tr>
+          </thead>
+          <tbody id="leaderboardBody">
+            <!-- JS will populate rows -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load pre-crawled database and client logic -->
+  <script src="lookup.js?v=2"></script>
+</body>
+</html>

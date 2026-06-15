@@ -505,7 +505,59 @@ function renderStudentResultCard(student) {
   const diffAvg = Math.abs(student.total - avgScore).toFixed(2);
   const diffMax = (maxScore - student.total).toFixed(2);
   
+  // Calculate dense ranks for each subject to detect Top 3 scores
+  const mathScores = [...new Set(EXAM_DATA.map(d => d.math))].sort((a, b) => b - a);
+  const litScores = [...new Set(EXAM_DATA.map(d => d.lit))].sort((a, b) => b - a);
+  const engScores = [...new Set(EXAM_DATA.map(d => d.eng))].sort((a, b) => b - a);
+
+  const mathRank = mathScores.indexOf(student.math) + 1;
+  const litRank = litScores.indexOf(student.lit) + 1;
+  const engRank = engScores.indexOf(student.eng) + 1;
+
+  const achievements = [];
+  const rankNames = {
+    1: { name: "Thủ khoa", class: "achievement-gold", icon: "fa-solid fa-trophy" },
+    2: { name: "Á khoa 1", class: "achievement-silver", icon: "fa-solid fa-medal" },
+    3: { name: "Á khoa 2", class: "achievement-bronze", icon: "fa-solid fa-medal" }
+  };
+
+  if (mathRank <= 3) {
+    achievements.push({
+      subject: "Toán",
+      score: student.math,
+      rank: mathRank,
+      info: rankNames[mathRank]
+    });
+  }
+  if (litRank <= 3) {
+    achievements.push({
+      subject: "Ngữ văn",
+      score: student.lit,
+      rank: litRank,
+      info: rankNames[litRank]
+    });
+  }
+  if (engRank <= 3) {
+    achievements.push({
+      subject: "Tiếng Anh",
+      score: student.eng,
+      rank: engRank,
+      info: rankNames[engRank]
+    });
+  }
+
+  let achievementsHtml = '';
+  if (achievements.length > 0) {
+    achievementsHtml = achievements.map(ach => `
+      <div class="achievement-card ${ach.info.class}">
+        <i class="${ach.info.icon}"></i>
+        <span>🌟 Chúc mừng! Bạn đạt <strong>${ach.info.name} môn ${ach.subject}</strong> (${ach.score.toFixed(2)}đ - Top ${ach.rank} điểm cao nhất)!</span>
+      </div>
+    `).join('');
+  }
+  
   elements.analyticsContent.innerHTML = `
+    ${achievementsHtml}
     <div class="analytics-item">
       <i class="fa-solid fa-circle-check" style="color: var(--success-color);"></i>
       <span>Bạn thuộc <strong>Top ${percentile.toFixed(2)}%</strong> thí sinh xuất sắc nhất.</span>

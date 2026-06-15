@@ -488,7 +488,7 @@ function renderStudentResultCard(student) {
   elements.resName.innerText = student.name;
   elements.resSbd.innerText = student.sbd;
   elements.resTotalScore.innerText = student.total.toFixed(3);
-  elements.resRank.innerText = `#${student.rank}`;
+  elements.resRank.innerHTML = `#${student.rank} <span style="font-size: 13px; color: var(--text-secondary); font-weight: 500;">/ ${EXAM_DATA.length}</span>`;
   
   // Individual subject scores
   elements.resMath.innerText = student.math.toFixed(2);

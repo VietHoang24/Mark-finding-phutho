@@ -479,6 +479,10 @@ function renderStudentResultCard(student) {
   elements.globalStats.style.display = 'none';
   elements.resultCard.className = 'card glass-card result-score-card';
   
+  // Clear any existing filters and highlight the selected row on the leaderboard
+  clearLeaderboardFiltersAndHighlights();
+  highlightLeaderboardRow(student.sbd);
+  
   // Apply glowing borders for top ranks
   if (student.rank === 1) elements.resultCard.classList.add('gold-border');
   else if (student.rank === 2) elements.resultCard.classList.add('silver-border');
